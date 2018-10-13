@@ -1,0 +1,3329 @@
+S.No,Crop Name,ScientificName,n,P,K,Zn,MN_Fe_B_Cu
+1,Rice,Oryza sativum,High,M,M,High,Medium
+2,Wheat,Triticum,High,Low,M,Medium,Medium
+3,Maize,Zea mays,High,High,Low,Low,VeryLow
+4,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+5,Coconut,Cocus nucifera,M,High,M,Low,Low
+6,Chilli,Capsicum frutescens,High,M,M,Low,Low
+7,Cotton,Gossypium,High,M,M,Low,Low
+8,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+9,Onion,Allium sepa,High,M,High,High,High
+10,Potato,Solanum tuberosum,High,High,High,Low,Low
+11,Brinjal,Solanum melongena,High,M,M,Low,Low
+12,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+13,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+14,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+15,Banana,Musa acuminata,High,High,High,M,M
+16,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+17,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+18,Mango,Mangifera indica,High,High,M,Medium,Medium
+19,Castor,Ricinus communis,High,M,High,Medium,Low
+20,Mustard,Brassica   ,High,M,M,Low,Low
+21,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+22,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+23,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+24,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+25,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+26,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+27,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+28,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+29,Garlic,,High,Low,High,,VeryLow
+30,Peas,,High,Low,High,VeryLow,VeryLow
+31,Orange,,High,Low,High,VeryLow,VeryLow
+32,Celery,,High,Low,High,VeryLow,VeryLow
+33,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+34,TableTomato,,High,Low,High,VeryLow,VeryLow
+35,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+36,Sorghum,,M,Low,M,VeryLow,VeryLow
+37,PearlMillet,,M,Low,M,VeryLow,VeryLow
+38,Raagi,,Low,Low,Low,VeryLow,VeryLow
+39,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+40,Barley,,Low,Low,Low,VeryLow,VeryLow
+41,ChickPea,,M,Low,M,VeryLow,VeryLow
+42,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+43,SoyaBean,,High,Low,M,VeryLow,VeryLow
+44,Jute,,M,Low,M,VeryLow,VeryLow
+45,Rubber,,Low,M,Low,,
+46,Tea,,High,Low,M,,
+47,Tobacco,,High,Low,M,,
+48,Apple,,High,Low,M,,
+49,CustardApple,,M,Low,M,,
+50,WaterMelon,,High,Low,M,,
+51,Beetroot,,High,High,High,,
+52,Carrot,,High,High,M,,
+53,Rice,Oryza sativum,High,M,M,High,Medium
+54,Wheat,Triticum,High,Low,M,Medium,Medium
+55,Maize,Zea mays,High,High,Low,Low,VeryLow
+56,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+57,Coconut,Cocus nucifera,M,High,M,Low,Low
+58,Chilli,Capsicum frutescens,High,M,M,Low,Low
+59,Cotton,Gossypium,High,M,M,Low,Low
+60,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+61,Onion,Allium sepa,High,M,High,High,High
+62,Potato,Solanum tuberosum,High,High,High,Low,Low
+63,Brinjal,Solanum melongena,High,M,M,Low,Low
+64,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+65,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+66,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+67,Banana,Musa acuminata,High,High,High,M,M
+68,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+69,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+70,Mango,Mangifera indica,High,High,M,Medium,Medium
+71,Castor,Ricinus communis,High,M,High,Medium,Low
+72,Mustard,Brassica   ,High,M,M,Low,Low
+73,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+74,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+75,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+76,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+77,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+78,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+79,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+80,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+81,Garlic,,High,Low,High,,VeryLow
+82,Peas,,High,Low,High,VeryLow,VeryLow
+83,Orange,,High,Low,High,VeryLow,VeryLow
+84,Celery,,High,Low,High,VeryLow,VeryLow
+85,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+86,TableTomato,,High,Low,High,VeryLow,VeryLow
+87,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+88,Sorghum,,M,Low,M,VeryLow,VeryLow
+89,PearlMillet,,M,Low,M,VeryLow,VeryLow
+90,Raagi,,Low,Low,Low,VeryLow,VeryLow
+91,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+92,Barley,,Low,Low,Low,VeryLow,VeryLow
+93,ChickPea,,M,Low,M,VeryLow,VeryLow
+94,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+95,SoyaBean,,High,Low,M,VeryLow,VeryLow
+96,Jute,,M,Low,M,VeryLow,VeryLow
+97,Rubber,,Low,M,Low,,
+98,Tea,,High,Low,M,,
+99,Tobacco,,High,Low,M,,
+100,Apple,,High,Low,M,,
+101,CustardApple,,M,Low,M,,
+102,WaterMelon,,High,Low,M,,
+103,Beetroot,,High,High,High,,
+104,Carrot,,High,High,M,,
+105,Rice,Oryza sativum,High,M,M,High,Medium
+106,Wheat,Triticum,High,Low,M,Medium,Medium
+107,Maize,Zea mays,High,High,Low,Low,VeryLow
+108,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+109,Coconut,Cocus nucifera,M,High,M,Low,Low
+110,Chilli,Capsicum frutescens,High,M,M,Low,Low
+111,Cotton,Gossypium,High,M,M,Low,Low
+112,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+113,Onion,Allium sepa,High,M,High,High,High
+114,Potato,Solanum tuberosum,High,High,High,Low,Low
+115,Brinjal,Solanum melongena,High,M,M,Low,Low
+116,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+117,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+118,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+119,Banana,Musa acuminata,High,High,High,M,M
+120,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+121,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+122,Mango,Mangifera indica,High,High,M,Medium,Medium
+123,Castor,Ricinus communis,High,M,High,Medium,Low
+124,Mustard,Brassica   ,High,M,M,Low,Low
+125,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+126,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+127,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+128,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+129,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+130,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+131,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+132,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+133,Garlic,,High,Low,High,,VeryLow
+134,Peas,,High,Low,High,VeryLow,VeryLow
+135,Orange,,High,Low,High,VeryLow,VeryLow
+136,Celery,,High,Low,High,VeryLow,VeryLow
+137,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+138,TableTomato,,High,Low,High,VeryLow,VeryLow
+139,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+140,Sorghum,,M,Low,M,VeryLow,VeryLow
+141,PearlMillet,,M,Low,M,VeryLow,VeryLow
+142,Raagi,,Low,Low,Low,VeryLow,VeryLow
+143,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+144,Barley,,Low,Low,Low,VeryLow,VeryLow
+145,ChickPea,,M,Low,M,VeryLow,VeryLow
+146,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+147,SoyaBean,,High,Low,M,VeryLow,VeryLow
+148,Jute,,M,Low,M,VeryLow,VeryLow
+149,Rubber,,Low,M,Low,,
+150,Tea,,High,Low,M,,
+151,Tobacco,,High,Low,M,,
+152,Apple,,High,Low,M,,
+153,CustardApple,,M,Low,M,,
+154,WaterMelon,,High,Low,M,,
+155,Beetroot,,High,High,High,,
+156,Carrot,,High,High,M,,
+157,Rice,Oryza sativum,High,M,M,High,Medium
+158,Wheat,Triticum,High,Low,M,Medium,Medium
+159,Maize,Zea mays,High,High,Low,Low,VeryLow
+160,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+161,Coconut,Cocus nucifera,M,High,M,Low,Low
+162,Chilli,Capsicum frutescens,High,M,M,Low,Low
+163,Cotton,Gossypium,High,M,M,Low,Low
+164,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+165,Onion,Allium sepa,High,M,High,High,High
+166,Potato,Solanum tuberosum,High,High,High,Low,Low
+167,Brinjal,Solanum melongena,High,M,M,Low,Low
+168,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+169,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+170,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+171,Banana,Musa acuminata,High,High,High,M,M
+172,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+173,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+174,Mango,Mangifera indica,High,High,M,Medium,Medium
+175,Castor,Ricinus communis,High,M,High,Medium,Low
+176,Mustard,Brassica   ,High,M,M,Low,Low
+177,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+178,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+179,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+180,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+181,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+182,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+183,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+184,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+185,Garlic,,High,Low,High,,VeryLow
+186,Peas,,High,Low,High,VeryLow,VeryLow
+187,Orange,,High,Low,High,VeryLow,VeryLow
+188,Celery,,High,Low,High,VeryLow,VeryLow
+189,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+190,TableTomato,,High,Low,High,VeryLow,VeryLow
+191,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+192,Sorghum,,M,Low,M,VeryLow,VeryLow
+193,PearlMillet,,M,Low,M,VeryLow,VeryLow
+194,Raagi,,Low,Low,Low,VeryLow,VeryLow
+195,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+196,Barley,,Low,Low,Low,VeryLow,VeryLow
+197,ChickPea,,M,Low,M,VeryLow,VeryLow
+198,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+199,SoyaBean,,High,Low,M,VeryLow,VeryLow
+200,Jute,,M,Low,M,VeryLow,VeryLow
+201,Rubber,,Low,M,Low,,
+202,Tea,,High,Low,M,,
+203,Tobacco,,High,Low,M,,
+204,Apple,,High,Low,M,,
+205,CustardApple,,M,Low,M,,
+206,WaterMelon,,High,Low,M,,
+207,Beetroot,,High,High,High,,
+208,Carrot,,High,High,M,,
+209,Rice,Oryza sativum,High,M,M,High,Medium
+210,Wheat,Triticum,High,Low,M,Medium,Medium
+211,Maize,Zea mays,High,High,Low,Low,VeryLow
+212,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+213,Coconut,Cocus nucifera,M,High,M,Low,Low
+214,Chilli,Capsicum frutescens,High,M,M,Low,Low
+215,Cotton,Gossypium,High,M,M,Low,Low
+216,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+217,Onion,Allium sepa,High,M,High,High,High
+218,Potato,Solanum tuberosum,High,High,High,Low,Low
+219,Brinjal,Solanum melongena,High,M,M,Low,Low
+220,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+221,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+222,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+223,Banana,Musa acuminata,High,High,High,M,M
+224,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+225,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+226,Mango,Mangifera indica,High,High,M,Medium,Medium
+227,Castor,Ricinus communis,High,M,High,Medium,Low
+228,Mustard,Brassica   ,High,M,M,Low,Low
+229,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+230,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+231,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+232,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+233,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+234,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+235,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+236,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+237,Garlic,,High,Low,High,,VeryLow
+238,Peas,,High,Low,High,VeryLow,VeryLow
+239,Orange,,High,Low,High,VeryLow,VeryLow
+240,Celery,,High,Low,High,VeryLow,VeryLow
+241,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+242,TableTomato,,High,Low,High,VeryLow,VeryLow
+243,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+244,Sorghum,,M,Low,M,VeryLow,VeryLow
+245,PearlMillet,,M,Low,M,VeryLow,VeryLow
+246,Raagi,,Low,Low,Low,VeryLow,VeryLow
+247,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+248,Barley,,Low,Low,Low,VeryLow,VeryLow
+249,ChickPea,,M,Low,M,VeryLow,VeryLow
+250,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+251,SoyaBean,,High,Low,M,VeryLow,VeryLow
+252,Jute,,M,Low,M,VeryLow,VeryLow
+253,Rubber,,Low,M,Low,,
+254,Tea,,High,Low,M,,
+255,Tobacco,,High,Low,M,,
+256,Apple,,High,Low,M,,
+257,CustardApple,,M,Low,M,,
+258,WaterMelon,,High,Low,M,,
+259,Beetroot,,High,High,High,,
+260,Carrot,,High,High,M,,
+261,Rice,Oryza sativum,High,M,M,High,Medium
+262,Wheat,Triticum,High,Low,M,Medium,Medium
+263,Maize,Zea mays,High,High,Low,Low,VeryLow
+264,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+265,Coconut,Cocus nucifera,M,High,M,Low,Low
+266,Chilli,Capsicum frutescens,High,M,M,Low,Low
+267,Cotton,Gossypium,High,M,M,Low,Low
+268,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+269,Onion,Allium sepa,High,M,High,High,High
+270,Potato,Solanum tuberosum,High,High,High,Low,Low
+271,Brinjal,Solanum melongena,High,M,M,Low,Low
+272,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+273,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+274,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+275,Banana,Musa acuminata,High,High,High,M,M
+276,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+277,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+278,Mango,Mangifera indica,High,High,M,Medium,Medium
+279,Castor,Ricinus communis,High,M,High,Medium,Low
+280,Mustard,Brassica   ,High,M,M,Low,Low
+281,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+282,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+283,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+284,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+285,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+286,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+287,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+288,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+289,Garlic,,High,Low,High,,VeryLow
+290,Peas,,High,Low,High,VeryLow,VeryLow
+291,Orange,,High,Low,High,VeryLow,VeryLow
+292,Celery,,High,Low,High,VeryLow,VeryLow
+293,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+294,TableTomato,,High,Low,High,VeryLow,VeryLow
+295,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+296,Sorghum,,M,Low,M,VeryLow,VeryLow
+297,PearlMillet,,M,Low,M,VeryLow,VeryLow
+298,Raagi,,Low,Low,Low,VeryLow,VeryLow
+299,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+300,Barley,,Low,Low,Low,VeryLow,VeryLow
+301,ChickPea,,M,Low,M,VeryLow,VeryLow
+302,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+303,SoyaBean,,High,Low,M,VeryLow,VeryLow
+304,Jute,,M,Low,M,VeryLow,VeryLow
+305,Rubber,,Low,M,Low,,
+306,Tea,,High,Low,M,,
+307,Tobacco,,High,Low,M,,
+308,Apple,,High,Low,M,,
+309,CustardApple,,M,Low,M,,
+310,WaterMelon,,High,Low,M,,
+311,Beetroot,,High,High,High,,
+312,Carrot,,High,High,M,,
+313,Rice,Oryza sativum,High,M,M,High,Medium
+314,Wheat,Triticum,High,Low,M,Medium,Medium
+315,Maize,Zea mays,High,High,Low,Low,VeryLow
+316,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+317,Coconut,Cocus nucifera,M,High,M,Low,Low
+318,Chilli,Capsicum frutescens,High,M,M,Low,Low
+319,Cotton,Gossypium,High,M,M,Low,Low
+320,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+321,Onion,Allium sepa,High,M,High,High,High
+322,Potato,Solanum tuberosum,High,High,High,Low,Low
+323,Brinjal,Solanum melongena,High,M,M,Low,Low
+324,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+325,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+326,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+327,Banana,Musa acuminata,High,High,High,M,M
+328,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+329,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+330,Mango,Mangifera indica,High,High,M,Medium,Medium
+331,Castor,Ricinus communis,High,M,High,Medium,Low
+332,Mustard,Brassica   ,High,M,M,Low,Low
+333,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+334,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+335,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+336,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+337,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+338,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+339,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+340,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+341,Garlic,,High,Low,High,,VeryLow
+342,Peas,,High,Low,High,VeryLow,VeryLow
+343,Orange,,High,Low,High,VeryLow,VeryLow
+344,Celery,,High,Low,High,VeryLow,VeryLow
+345,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+346,TableTomato,,High,Low,High,VeryLow,VeryLow
+347,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+348,Sorghum,,M,Low,M,VeryLow,VeryLow
+349,PearlMillet,,M,Low,M,VeryLow,VeryLow
+350,Raagi,,Low,Low,Low,VeryLow,VeryLow
+351,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+352,Barley,,Low,Low,Low,VeryLow,VeryLow
+353,ChickPea,,M,Low,M,VeryLow,VeryLow
+354,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+355,SoyaBean,,High,Low,M,VeryLow,VeryLow
+356,Jute,,M,Low,M,VeryLow,VeryLow
+357,Rubber,,Low,M,Low,,
+358,Tea,,High,Low,M,,
+359,Tobacco,,High,Low,M,,
+360,Apple,,High,Low,M,,
+361,CustardApple,,M,Low,M,,
+362,WaterMelon,,High,Low,M,,
+363,Beetroot,,High,High,High,,
+364,Carrot,,High,High,M,,
+365,Rice,Oryza sativum,High,M,M,High,Medium
+366,Wheat,Triticum,High,Low,M,Medium,Medium
+367,Maize,Zea mays,High,High,Low,Low,VeryLow
+368,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+369,Coconut,Cocus nucifera,M,High,M,Low,Low
+370,Chilli,Capsicum frutescens,High,M,M,Low,Low
+371,Cotton,Gossypium,High,M,M,Low,Low
+372,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+373,Onion,Allium sepa,High,M,High,High,High
+374,Potato,Solanum tuberosum,High,High,High,Low,Low
+375,Brinjal,Solanum melongena,High,M,M,Low,Low
+376,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+377,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+378,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+379,Banana,Musa acuminata,High,High,High,M,M
+380,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+381,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+382,Mango,Mangifera indica,High,High,M,Medium,Medium
+383,Castor,Ricinus communis,High,M,High,Medium,Low
+384,Mustard,Brassica   ,High,M,M,Low,Low
+385,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+386,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+387,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+388,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+389,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+390,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+391,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+392,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+393,Garlic,,High,Low,High,,VeryLow
+394,Peas,,High,Low,High,VeryLow,VeryLow
+395,Orange,,High,Low,High,VeryLow,VeryLow
+396,Celery,,High,Low,High,VeryLow,VeryLow
+397,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+398,TableTomato,,High,Low,High,VeryLow,VeryLow
+399,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+400,Sorghum,,M,Low,M,VeryLow,VeryLow
+401,PearlMillet,,M,Low,M,VeryLow,VeryLow
+402,Raagi,,Low,Low,Low,VeryLow,VeryLow
+403,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+404,Barley,,Low,Low,Low,VeryLow,VeryLow
+405,ChickPea,,M,Low,M,VeryLow,VeryLow
+406,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+407,SoyaBean,,High,Low,M,VeryLow,VeryLow
+408,Jute,,M,Low,M,VeryLow,VeryLow
+409,Rubber,,Low,M,Low,,
+410,Tea,,High,Low,M,,
+411,Tobacco,,High,Low,M,,
+412,Apple,,High,Low,M,,
+413,CustardApple,,M,Low,M,,
+414,WaterMelon,,High,Low,M,,
+415,Beetroot,,High,High,High,,
+416,Carrot,,High,High,M,,
+417,Rice,Oryza sativum,High,M,M,High,Medium
+418,Wheat,Triticum,High,Low,M,Medium,Medium
+419,Maize,Zea mays,High,High,Low,Low,VeryLow
+420,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+421,Coconut,Cocus nucifera,M,High,M,Low,Low
+422,Chilli,Capsicum frutescens,High,M,M,Low,Low
+423,Cotton,Gossypium,High,M,M,Low,Low
+424,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+425,Onion,Allium sepa,High,M,High,High,High
+426,Potato,Solanum tuberosum,High,High,High,Low,Low
+427,Brinjal,Solanum melongena,High,M,M,Low,Low
+428,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+429,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+430,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+431,Banana,Musa acuminata,High,High,High,M,M
+432,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+433,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+434,Mango,Mangifera indica,High,High,M,Medium,Medium
+435,Castor,Ricinus communis,High,M,High,Medium,Low
+436,Mustard,Brassica   ,High,M,M,Low,Low
+437,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+438,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+439,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+440,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+441,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+442,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+443,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+444,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+445,Garlic,,High,Low,High,,VeryLow
+446,Peas,,High,Low,High,VeryLow,VeryLow
+447,Orange,,High,Low,High,VeryLow,VeryLow
+448,Celery,,High,Low,High,VeryLow,VeryLow
+449,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+450,TableTomato,,High,Low,High,VeryLow,VeryLow
+451,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+452,Sorghum,,M,Low,M,VeryLow,VeryLow
+453,PearlMillet,,M,Low,M,VeryLow,VeryLow
+454,Raagi,,Low,Low,Low,VeryLow,VeryLow
+455,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+456,Barley,,Low,Low,Low,VeryLow,VeryLow
+457,ChickPea,,M,Low,M,VeryLow,VeryLow
+458,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+459,SoyaBean,,High,Low,M,VeryLow,VeryLow
+460,Jute,,M,Low,M,VeryLow,VeryLow
+461,Rubber,,Low,M,Low,,
+462,Tea,,High,Low,M,,
+463,Tobacco,,High,Low,M,,
+464,Apple,,High,Low,M,,
+465,CustardApple,,M,Low,M,,
+466,WaterMelon,,High,Low,M,,
+467,Beetroot,,High,High,High,,
+468,Carrot,,High,High,M,,
+469,Rice,Oryza sativum,High,M,M,High,Medium
+470,Wheat,Triticum,High,Low,M,Medium,Medium
+471,Maize,Zea mays,High,High,Low,Low,VeryLow
+472,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+473,Coconut,Cocus nucifera,M,High,M,Low,Low
+474,Chilli,Capsicum frutescens,High,M,M,Low,Low
+475,Cotton,Gossypium,High,M,M,Low,Low
+476,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+477,Onion,Allium sepa,High,M,High,High,High
+478,Potato,Solanum tuberosum,High,High,High,Low,Low
+479,Brinjal,Solanum melongena,High,M,M,Low,Low
+480,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+481,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+482,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+483,Banana,Musa acuminata,High,High,High,M,M
+484,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+485,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+486,Mango,Mangifera indica,High,High,M,Medium,Medium
+487,Castor,Ricinus communis,High,M,High,Medium,Low
+488,Mustard,Brassica   ,High,M,M,Low,Low
+489,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+490,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+491,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+492,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+493,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+494,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+495,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+496,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+497,Garlic,,High,Low,High,,VeryLow
+498,Peas,,High,Low,High,VeryLow,VeryLow
+499,Orange,,High,Low,High,VeryLow,VeryLow
+500,Celery,,High,Low,High,VeryLow,VeryLow
+501,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+502,TableTomato,,High,Low,High,VeryLow,VeryLow
+503,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+504,Sorghum,,M,Low,M,VeryLow,VeryLow
+505,PearlMillet,,M,Low,M,VeryLow,VeryLow
+506,Raagi,,Low,Low,Low,VeryLow,VeryLow
+507,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+508,Barley,,Low,Low,Low,VeryLow,VeryLow
+509,ChickPea,,M,Low,M,VeryLow,VeryLow
+510,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+511,SoyaBean,,High,Low,M,VeryLow,VeryLow
+512,Jute,,M,Low,M,VeryLow,VeryLow
+513,Rubber,,Low,M,Low,,
+514,Tea,,High,Low,M,,
+515,Tobacco,,High,Low,M,,
+516,Apple,,High,Low,M,,
+517,CustardApple,,M,Low,M,,
+518,WaterMelon,,High,Low,M,,
+519,Beetroot,,High,High,High,,
+520,Carrot,,High,High,M,,
+521,Rice,Oryza sativum,High,M,M,High,Medium
+522,Wheat,Triticum,High,Low,M,Medium,Medium
+523,Maize,Zea mays,High,High,Low,Low,VeryLow
+524,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+525,Coconut,Cocus nucifera,M,High,M,Low,Low
+526,Chilli,Capsicum frutescens,High,M,M,Low,Low
+527,Cotton,Gossypium,High,M,M,Low,Low
+528,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+529,Onion,Allium sepa,High,M,High,High,High
+530,Potato,Solanum tuberosum,High,High,High,Low,Low
+531,Brinjal,Solanum melongena,High,M,M,Low,Low
+532,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+533,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+534,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+535,Banana,Musa acuminata,High,High,High,M,M
+536,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+537,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+538,Mango,Mangifera indica,High,High,M,Medium,Medium
+539,Castor,Ricinus communis,High,M,High,Medium,Low
+540,Mustard,Brassica   ,High,M,M,Low,Low
+541,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+542,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+543,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+544,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+545,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+546,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+547,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+548,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+549,Garlic,,High,Low,High,,VeryLow
+550,Peas,,High,Low,High,VeryLow,VeryLow
+551,Orange,,High,Low,High,VeryLow,VeryLow
+552,Celery,,High,Low,High,VeryLow,VeryLow
+553,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+554,TableTomato,,High,Low,High,VeryLow,VeryLow
+555,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+556,Sorghum,,M,Low,M,VeryLow,VeryLow
+557,PearlMillet,,M,Low,M,VeryLow,VeryLow
+558,Raagi,,Low,Low,Low,VeryLow,VeryLow
+559,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+560,Barley,,Low,Low,Low,VeryLow,VeryLow
+561,ChickPea,,M,Low,M,VeryLow,VeryLow
+562,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+563,SoyaBean,,High,Low,M,VeryLow,VeryLow
+564,Jute,,M,Low,M,VeryLow,VeryLow
+565,Rubber,,Low,M,Low,,
+566,Tea,,High,Low,M,,
+567,Tobacco,,High,Low,M,,
+568,Apple,,High,Low,M,,
+569,CustardApple,,M,Low,M,,
+570,WaterMelon,,High,Low,M,,
+571,Beetroot,,High,High,High,,
+572,Carrot,,High,High,M,,
+573,Rice,Oryza sativum,High,M,M,High,Medium
+574,Wheat,Triticum,High,Low,M,Medium,Medium
+575,Maize,Zea mays,High,High,Low,Low,VeryLow
+576,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+577,Coconut,Cocus nucifera,M,High,M,Low,Low
+578,Chilli,Capsicum frutescens,High,M,M,Low,Low
+579,Cotton,Gossypium,High,M,M,Low,Low
+580,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+581,Onion,Allium sepa,High,M,High,High,High
+582,Potato,Solanum tuberosum,High,High,High,Low,Low
+583,Brinjal,Solanum melongena,High,M,M,Low,Low
+584,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+585,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+586,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+587,Banana,Musa acuminata,High,High,High,M,M
+588,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+589,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+590,Mango,Mangifera indica,High,High,M,Medium,Medium
+591,Castor,Ricinus communis,High,M,High,Medium,Low
+592,Mustard,Brassica   ,High,M,M,Low,Low
+593,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+594,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+595,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+596,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+597,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+598,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+599,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+600,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+601,Garlic,,High,Low,High,,VeryLow
+602,Peas,,High,Low,High,VeryLow,VeryLow
+603,Orange,,High,Low,High,VeryLow,VeryLow
+604,Celery,,High,Low,High,VeryLow,VeryLow
+605,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+606,TableTomato,,High,Low,High,VeryLow,VeryLow
+607,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+608,Sorghum,,M,Low,M,VeryLow,VeryLow
+609,PearlMillet,,M,Low,M,VeryLow,VeryLow
+610,Raagi,,Low,Low,Low,VeryLow,VeryLow
+611,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+612,Barley,,Low,Low,Low,VeryLow,VeryLow
+613,ChickPea,,M,Low,M,VeryLow,VeryLow
+614,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+615,SoyaBean,,High,Low,M,VeryLow,VeryLow
+616,Jute,,M,Low,M,VeryLow,VeryLow
+617,Rubber,,Low,M,Low,,
+618,Tea,,High,Low,M,,
+619,Tobacco,,High,Low,M,,
+620,Apple,,High,Low,M,,
+621,CustardApple,,M,Low,M,,
+622,WaterMelon,,High,Low,M,,
+623,Beetroot,,High,High,High,,
+624,Carrot,,High,High,M,,
+625,Rice,Oryza sativum,High,M,M,High,Medium
+626,Wheat,Triticum,High,Low,M,Medium,Medium
+627,Maize,Zea mays,High,High,Low,Low,VeryLow
+628,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+629,Coconut,Cocus nucifera,M,High,M,Low,Low
+630,Chilli,Capsicum frutescens,High,M,M,Low,Low
+631,Cotton,Gossypium,High,M,M,Low,Low
+632,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+633,Onion,Allium sepa,High,M,High,High,High
+634,Potato,Solanum tuberosum,High,High,High,Low,Low
+635,Brinjal,Solanum melongena,High,M,M,Low,Low
+636,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+637,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+638,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+639,Banana,Musa acuminata,High,High,High,M,M
+640,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+641,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+642,Mango,Mangifera indica,High,High,M,Medium,Medium
+643,Castor,Ricinus communis,High,M,High,Medium,Low
+644,Mustard,Brassica   ,High,M,M,Low,Low
+645,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+646,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+647,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+648,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+649,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+650,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+651,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+652,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+653,Garlic,,High,Low,High,,VeryLow
+654,Peas,,High,Low,High,VeryLow,VeryLow
+655,Orange,,High,Low,High,VeryLow,VeryLow
+656,Celery,,High,Low,High,VeryLow,VeryLow
+657,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+658,TableTomato,,High,Low,High,VeryLow,VeryLow
+659,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+660,Sorghum,,M,Low,M,VeryLow,VeryLow
+661,PearlMillet,,M,Low,M,VeryLow,VeryLow
+662,Raagi,,Low,Low,Low,VeryLow,VeryLow
+663,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+664,Barley,,Low,Low,Low,VeryLow,VeryLow
+665,ChickPea,,M,Low,M,VeryLow,VeryLow
+666,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+667,SoyaBean,,High,Low,M,VeryLow,VeryLow
+668,Jute,,M,Low,M,VeryLow,VeryLow
+669,Rubber,,Low,M,Low,,
+670,Tea,,High,Low,M,,
+671,Tobacco,,High,Low,M,,
+672,Apple,,High,Low,M,,
+673,CustardApple,,M,Low,M,,
+674,WaterMelon,,High,Low,M,,
+675,Beetroot,,High,High,High,,
+676,Carrot,,High,High,M,,
+677,Rice,Oryza sativum,High,M,M,High,Medium
+678,Wheat,Triticum,High,Low,M,Medium,Medium
+679,Maize,Zea mays,High,High,Low,Low,VeryLow
+680,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+681,Coconut,Cocus nucifera,M,High,M,Low,Low
+682,Chilli,Capsicum frutescens,High,M,M,Low,Low
+683,Cotton,Gossypium,High,M,M,Low,Low
+684,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+685,Onion,Allium sepa,High,M,High,High,High
+686,Potato,Solanum tuberosum,High,High,High,Low,Low
+687,Brinjal,Solanum melongena,High,M,M,Low,Low
+688,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+689,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+690,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+691,Banana,Musa acuminata,High,High,High,M,M
+692,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+693,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+694,Mango,Mangifera indica,High,High,M,Medium,Medium
+695,Castor,Ricinus communis,High,M,High,Medium,Low
+696,Mustard,Brassica   ,High,M,M,Low,Low
+697,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+698,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+699,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+700,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+701,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+702,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+703,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+704,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+705,Garlic,,High,Low,High,,VeryLow
+706,Peas,,High,Low,High,VeryLow,VeryLow
+707,Orange,,High,Low,High,VeryLow,VeryLow
+708,Celery,,High,Low,High,VeryLow,VeryLow
+709,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+710,TableTomato,,High,Low,High,VeryLow,VeryLow
+711,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+712,Sorghum,,M,Low,M,VeryLow,VeryLow
+713,PearlMillet,,M,Low,M,VeryLow,VeryLow
+714,Raagi,,Low,Low,Low,VeryLow,VeryLow
+715,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+716,Barley,,Low,Low,Low,VeryLow,VeryLow
+717,ChickPea,,M,Low,M,VeryLow,VeryLow
+718,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+719,SoyaBean,,High,Low,M,VeryLow,VeryLow
+720,Jute,,M,Low,M,VeryLow,VeryLow
+721,Rubber,,Low,M,Low,,
+722,Tea,,High,Low,M,,
+723,Tobacco,,High,Low,M,,
+724,Apple,,High,Low,M,,
+725,CustardApple,,M,Low,M,,
+726,WaterMelon,,High,Low,M,,
+727,Beetroot,,High,High,High,,
+728,Carrot,,High,High,M,,
+729,Rice,Oryza sativum,High,M,M,High,Medium
+730,Wheat,Triticum,High,Low,M,Medium,Medium
+731,Maize,Zea mays,High,High,Low,Low,VeryLow
+732,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+733,Coconut,Cocus nucifera,M,High,M,Low,Low
+734,Chilli,Capsicum frutescens,High,M,M,Low,Low
+735,Cotton,Gossypium,High,M,M,Low,Low
+736,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+737,Onion,Allium sepa,High,M,High,High,High
+738,Potato,Solanum tuberosum,High,High,High,Low,Low
+739,Brinjal,Solanum melongena,High,M,M,Low,Low
+740,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+741,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+742,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+743,Banana,Musa acuminata,High,High,High,M,M
+744,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+745,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+746,Mango,Mangifera indica,High,High,M,Medium,Medium
+747,Castor,Ricinus communis,High,M,High,Medium,Low
+748,Mustard,Brassica   ,High,M,M,Low,Low
+749,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+750,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+751,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+752,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+753,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+754,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+755,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+756,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+757,Garlic,,High,Low,High,,VeryLow
+758,Peas,,High,Low,High,VeryLow,VeryLow
+759,Orange,,High,Low,High,VeryLow,VeryLow
+760,Celery,,High,Low,High,VeryLow,VeryLow
+761,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+762,TableTomato,,High,Low,High,VeryLow,VeryLow
+763,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+764,Sorghum,,M,Low,M,VeryLow,VeryLow
+765,PearlMillet,,M,Low,M,VeryLow,VeryLow
+766,Raagi,,Low,Low,Low,VeryLow,VeryLow
+767,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+768,Barley,,Low,Low,Low,VeryLow,VeryLow
+769,ChickPea,,M,Low,M,VeryLow,VeryLow
+770,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+771,SoyaBean,,High,Low,M,VeryLow,VeryLow
+772,Jute,,M,Low,M,VeryLow,VeryLow
+773,Rubber,,Low,M,Low,,
+774,Tea,,High,Low,M,,
+775,Tobacco,,High,Low,M,,
+776,Apple,,High,Low,M,,
+777,CustardApple,,M,Low,M,,
+778,WaterMelon,,High,Low,M,,
+779,Beetroot,,High,High,High,,
+780,Carrot,,High,High,M,,
+781,Rice,Oryza sativum,High,M,M,High,Medium
+782,Wheat,Triticum,High,Low,M,Medium,Medium
+783,Maize,Zea mays,High,High,Low,Low,VeryLow
+784,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+785,Coconut,Cocus nucifera,M,High,M,Low,Low
+786,Chilli,Capsicum frutescens,High,M,M,Low,Low
+787,Cotton,Gossypium,High,M,M,Low,Low
+788,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+789,Onion,Allium sepa,High,M,High,High,High
+790,Potato,Solanum tuberosum,High,High,High,Low,Low
+791,Brinjal,Solanum melongena,High,M,M,Low,Low
+792,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+793,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+794,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+795,Banana,Musa acuminata,High,High,High,M,M
+796,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+797,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+798,Mango,Mangifera indica,High,High,M,Medium,Medium
+799,Castor,Ricinus communis,High,M,High,Medium,Low
+800,Mustard,Brassica   ,High,M,M,Low,Low
+801,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+802,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+803,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+804,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+805,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+806,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+807,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+808,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+809,Garlic,,High,Low,High,,VeryLow
+810,Peas,,High,Low,High,VeryLow,VeryLow
+811,Orange,,High,Low,High,VeryLow,VeryLow
+812,Celery,,High,Low,High,VeryLow,VeryLow
+813,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+814,TableTomato,,High,Low,High,VeryLow,VeryLow
+815,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+816,Sorghum,,M,Low,M,VeryLow,VeryLow
+817,PearlMillet,,M,Low,M,VeryLow,VeryLow
+818,Raagi,,Low,Low,Low,VeryLow,VeryLow
+819,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+820,Barley,,Low,Low,Low,VeryLow,VeryLow
+821,ChickPea,,M,Low,M,VeryLow,VeryLow
+822,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+823,SoyaBean,,High,Low,M,VeryLow,VeryLow
+824,Jute,,M,Low,M,VeryLow,VeryLow
+825,Rubber,,Low,M,Low,,
+826,Tea,,High,Low,M,,
+827,Tobacco,,High,Low,M,,
+828,Apple,,High,Low,M,,
+829,CustardApple,,M,Low,M,,
+830,WaterMelon,,High,Low,M,,
+831,Beetroot,,High,High,High,,
+832,Carrot,,High,High,M,,
+833,Rice,Oryza sativum,High,M,M,High,Medium
+834,Wheat,Triticum,High,Low,M,Medium,Medium
+835,Maize,Zea mays,High,High,Low,Low,VeryLow
+836,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+837,Coconut,Cocus nucifera,M,High,M,Low,Low
+838,Chilli,Capsicum frutescens,High,M,M,Low,Low
+839,Cotton,Gossypium,High,M,M,Low,Low
+840,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+841,Onion,Allium sepa,High,M,High,High,High
+842,Potato,Solanum tuberosum,High,High,High,Low,Low
+843,Brinjal,Solanum melongena,High,M,M,Low,Low
+844,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+845,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+846,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+847,Banana,Musa acuminata,High,High,High,M,M
+848,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+849,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+850,Mango,Mangifera indica,High,High,M,Medium,Medium
+851,Castor,Ricinus communis,High,M,High,Medium,Low
+852,Mustard,Brassica   ,High,M,M,Low,Low
+853,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+854,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+855,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+856,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+857,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+858,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+859,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+860,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+861,Garlic,,High,Low,High,,VeryLow
+862,Peas,,High,Low,High,VeryLow,VeryLow
+863,Orange,,High,Low,High,VeryLow,VeryLow
+864,Celery,,High,Low,High,VeryLow,VeryLow
+865,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+866,TableTomato,,High,Low,High,VeryLow,VeryLow
+867,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+868,Sorghum,,M,Low,M,VeryLow,VeryLow
+869,PearlMillet,,M,Low,M,VeryLow,VeryLow
+870,Raagi,,Low,Low,Low,VeryLow,VeryLow
+871,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+872,Barley,,Low,Low,Low,VeryLow,VeryLow
+873,ChickPea,,M,Low,M,VeryLow,VeryLow
+874,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+875,SoyaBean,,High,Low,M,VeryLow,VeryLow
+876,Jute,,M,Low,M,VeryLow,VeryLow
+877,Rubber,,Low,M,Low,,
+878,Tea,,High,Low,M,,
+879,Tobacco,,High,Low,M,,
+880,Apple,,High,Low,M,,
+881,CustardApple,,M,Low,M,,
+882,WaterMelon,,High,Low,M,,
+883,Beetroot,,High,High,High,,
+884,Carrot,,High,High,M,,
+885,Rice,Oryza sativum,High,M,M,High,Medium
+886,Wheat,Triticum,High,Low,M,Medium,Medium
+887,Maize,Zea mays,High,High,Low,Low,VeryLow
+888,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+889,Coconut,Cocus nucifera,M,High,M,Low,Low
+890,Chilli,Capsicum frutescens,High,M,M,Low,Low
+891,Cotton,Gossypium,High,M,M,Low,Low
+892,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+893,Onion,Allium sepa,High,M,High,High,High
+894,Potato,Solanum tuberosum,High,High,High,Low,Low
+895,Brinjal,Solanum melongena,High,M,M,Low,Low
+896,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+897,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+898,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+899,Banana,Musa acuminata,High,High,High,M,M
+900,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+901,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+902,Mango,Mangifera indica,High,High,M,Medium,Medium
+903,Castor,Ricinus communis,High,M,High,Medium,Low
+904,Mustard,Brassica   ,High,M,M,Low,Low
+905,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+906,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+907,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+908,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+909,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+910,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+911,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+912,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+913,Garlic,,High,Low,High,,VeryLow
+914,Peas,,High,Low,High,VeryLow,VeryLow
+915,Orange,,High,Low,High,VeryLow,VeryLow
+916,Celery,,High,Low,High,VeryLow,VeryLow
+917,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+918,TableTomato,,High,Low,High,VeryLow,VeryLow
+919,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+920,Sorghum,,M,Low,M,VeryLow,VeryLow
+921,PearlMillet,,M,Low,M,VeryLow,VeryLow
+922,Raagi,,Low,Low,Low,VeryLow,VeryLow
+923,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+924,Barley,,Low,Low,Low,VeryLow,VeryLow
+925,ChickPea,,M,Low,M,VeryLow,VeryLow
+926,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+927,SoyaBean,,High,Low,M,VeryLow,VeryLow
+928,Jute,,M,Low,M,VeryLow,VeryLow
+929,Rubber,,Low,M,Low,,
+930,Tea,,High,Low,M,,
+931,Tobacco,,High,Low,M,,
+932,Apple,,High,Low,M,,
+933,CustardApple,,M,Low,M,,
+934,WaterMelon,,High,Low,M,,
+935,Beetroot,,High,High,High,,
+936,Carrot,,High,High,M,,
+937,Rice,Oryza sativum,High,M,M,High,Medium
+938,Wheat,Triticum,High,Low,M,Medium,Medium
+939,Maize,Zea mays,High,High,Low,Low,VeryLow
+940,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+941,Coconut,Cocus nucifera,M,High,M,Low,Low
+942,Chilli,Capsicum frutescens,High,M,M,Low,Low
+943,Cotton,Gossypium,High,M,M,Low,Low
+944,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+945,Onion,Allium sepa,High,M,High,High,High
+946,Potato,Solanum tuberosum,High,High,High,Low,Low
+947,Brinjal,Solanum melongena,High,M,M,Low,Low
+948,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+949,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+950,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+951,Banana,Musa acuminata,High,High,High,M,M
+952,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+953,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+954,Mango,Mangifera indica,High,High,M,Medium,Medium
+955,Castor,Ricinus communis,High,M,High,Medium,Low
+956,Mustard,Brassica   ,High,M,M,Low,Low
+957,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+958,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+959,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+960,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+961,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+962,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+963,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+964,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+965,Garlic,,High,Low,High,,VeryLow
+966,Peas,,High,Low,High,VeryLow,VeryLow
+967,Orange,,High,Low,High,VeryLow,VeryLow
+968,Celery,,High,Low,High,VeryLow,VeryLow
+969,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+970,TableTomato,,High,Low,High,VeryLow,VeryLow
+971,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+972,Sorghum,,M,Low,M,VeryLow,VeryLow
+973,PearlMillet,,M,Low,M,VeryLow,VeryLow
+974,Raagi,,Low,Low,Low,VeryLow,VeryLow
+975,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+976,Barley,,Low,Low,Low,VeryLow,VeryLow
+977,ChickPea,,M,Low,M,VeryLow,VeryLow
+978,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+979,SoyaBean,,High,Low,M,VeryLow,VeryLow
+980,Jute,,M,Low,M,VeryLow,VeryLow
+981,Rubber,,Low,M,Low,,
+982,Tea,,High,Low,M,,
+983,Tobacco,,High,Low,M,,
+984,Apple,,High,Low,M,,
+985,CustardApple,,M,Low,M,,
+986,WaterMelon,,High,Low,M,,
+987,Beetroot,,High,High,High,,
+988,Carrot,,High,High,M,,
+989,Rice,Oryza sativum,High,M,M,High,Medium
+990,Wheat,Triticum,High,Low,M,Medium,Medium
+991,Maize,Zea mays,High,High,Low,Low,VeryLow
+992,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+993,Coconut,Cocus nucifera,M,High,M,Low,Low
+994,Chilli,Capsicum frutescens,High,M,M,Low,Low
+995,Cotton,Gossypium,High,M,M,Low,Low
+996,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+997,Onion,Allium sepa,High,M,High,High,High
+998,Potato,Solanum tuberosum,High,High,High,Low,Low
+999,Brinjal,Solanum melongena,High,M,M,Low,Low
+1000,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1001,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1002,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1003,Banana,Musa acuminata,High,High,High,M,M
+1004,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1005,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1006,Mango,Mangifera indica,High,High,M,Medium,Medium
+1007,Castor,Ricinus communis,High,M,High,Medium,Low
+1008,Mustard,Brassica   ,High,M,M,Low,Low
+1009,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1010,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1011,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1012,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1013,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1014,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1015,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1016,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1017,Garlic,,High,Low,High,,VeryLow
+1018,Peas,,High,Low,High,VeryLow,VeryLow
+1019,Orange,,High,Low,High,VeryLow,VeryLow
+1020,Celery,,High,Low,High,VeryLow,VeryLow
+1021,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1022,TableTomato,,High,Low,High,VeryLow,VeryLow
+1023,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1024,Sorghum,,M,Low,M,VeryLow,VeryLow
+1025,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1026,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1027,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1028,Barley,,Low,Low,Low,VeryLow,VeryLow
+1029,ChickPea,,M,Low,M,VeryLow,VeryLow
+1030,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1031,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1032,Jute,,M,Low,M,VeryLow,VeryLow
+1033,Rubber,,Low,M,Low,,
+1034,Tea,,High,Low,M,,
+1035,Tobacco,,High,Low,M,,
+1036,Apple,,High,Low,M,,
+1037,CustardApple,,M,Low,M,,
+1038,WaterMelon,,High,Low,M,,
+1039,Beetroot,,High,High,High,,
+1040,Carrot,,High,High,M,,
+1041,Rice,Oryza sativum,High,M,M,High,Medium
+1042,Wheat,Triticum,High,Low,M,Medium,Medium
+1043,Maize,Zea mays,High,High,Low,Low,VeryLow
+1044,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1045,Coconut,Cocus nucifera,M,High,M,Low,Low
+1046,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1047,Cotton,Gossypium,High,M,M,Low,Low
+1048,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1049,Onion,Allium sepa,High,M,High,High,High
+1050,Potato,Solanum tuberosum,High,High,High,Low,Low
+1051,Brinjal,Solanum melongena,High,M,M,Low,Low
+1052,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1053,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1054,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1055,Banana,Musa acuminata,High,High,High,M,M
+1056,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1057,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1058,Mango,Mangifera indica,High,High,M,Medium,Medium
+1059,Castor,Ricinus communis,High,M,High,Medium,Low
+1060,Mustard,Brassica   ,High,M,M,Low,Low
+1061,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1062,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1063,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1064,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1065,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1066,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1067,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1068,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1069,Garlic,,High,Low,High,,VeryLow
+1070,Peas,,High,Low,High,VeryLow,VeryLow
+1071,Orange,,High,Low,High,VeryLow,VeryLow
+1072,Celery,,High,Low,High,VeryLow,VeryLow
+1073,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1074,TableTomato,,High,Low,High,VeryLow,VeryLow
+1075,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1076,Sorghum,,M,Low,M,VeryLow,VeryLow
+1077,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1078,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1079,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1080,Barley,,Low,Low,Low,VeryLow,VeryLow
+1081,ChickPea,,M,Low,M,VeryLow,VeryLow
+1082,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1083,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1084,Jute,,M,Low,M,VeryLow,VeryLow
+1085,Rubber,,Low,M,Low,,
+1086,Tea,,High,Low,M,,
+1087,Tobacco,,High,Low,M,,
+1088,Apple,,High,Low,M,,
+1089,CustardApple,,M,Low,M,,
+1090,WaterMelon,,High,Low,M,,
+1091,Beetroot,,High,High,High,,
+1092,Carrot,,High,High,M,,
+1093,Rice,Oryza sativum,High,M,M,High,Medium
+1094,Wheat,Triticum,High,Low,M,Medium,Medium
+1095,Maize,Zea mays,High,High,Low,Low,VeryLow
+1096,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1097,Coconut,Cocus nucifera,M,High,M,Low,Low
+1098,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1099,Cotton,Gossypium,High,M,M,Low,Low
+1100,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1101,Onion,Allium sepa,High,M,High,High,High
+1102,Potato,Solanum tuberosum,High,High,High,Low,Low
+1103,Brinjal,Solanum melongena,High,M,M,Low,Low
+1104,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1105,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1106,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1107,Banana,Musa acuminata,High,High,High,M,M
+1108,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1109,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1110,Mango,Mangifera indica,High,High,M,Medium,Medium
+1111,Castor,Ricinus communis,High,M,High,Medium,Low
+1112,Mustard,Brassica   ,High,M,M,Low,Low
+1113,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1114,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1115,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1116,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1117,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1118,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1119,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1120,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1121,Garlic,,High,Low,High,,VeryLow
+1122,Peas,,High,Low,High,VeryLow,VeryLow
+1123,Orange,,High,Low,High,VeryLow,VeryLow
+1124,Celery,,High,Low,High,VeryLow,VeryLow
+1125,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1126,TableTomato,,High,Low,High,VeryLow,VeryLow
+1127,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1128,Sorghum,,M,Low,M,VeryLow,VeryLow
+1129,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1130,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1131,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1132,Barley,,Low,Low,Low,VeryLow,VeryLow
+1133,ChickPea,,M,Low,M,VeryLow,VeryLow
+1134,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1135,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1136,Jute,,M,Low,M,VeryLow,VeryLow
+1137,Rubber,,Low,M,Low,,
+1138,Tea,,High,Low,M,,
+1139,Tobacco,,High,Low,M,,
+1140,Apple,,High,Low,M,,
+1141,CustardApple,,M,Low,M,,
+1142,WaterMelon,,High,Low,M,,
+1143,Beetroot,,High,High,High,,
+1144,Carrot,,High,High,M,,
+1145,Rice,Oryza sativum,High,M,M,High,Medium
+1146,Wheat,Triticum,High,Low,M,Medium,Medium
+1147,Maize,Zea mays,High,High,Low,Low,VeryLow
+1148,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1149,Coconut,Cocus nucifera,M,High,M,Low,Low
+1150,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1151,Cotton,Gossypium,High,M,M,Low,Low
+1152,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1153,Onion,Allium sepa,High,M,High,High,High
+1154,Potato,Solanum tuberosum,High,High,High,Low,Low
+1155,Brinjal,Solanum melongena,High,M,M,Low,Low
+1156,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1157,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1158,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1159,Banana,Musa acuminata,High,High,High,M,M
+1160,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1161,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1162,Mango,Mangifera indica,High,High,M,Medium,Medium
+1163,Castor,Ricinus communis,High,M,High,Medium,Low
+1164,Mustard,Brassica   ,High,M,M,Low,Low
+1165,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1166,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1167,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1168,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1169,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1170,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1171,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1172,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1173,Garlic,,High,Low,High,,VeryLow
+1174,Peas,,High,Low,High,VeryLow,VeryLow
+1175,Orange,,High,Low,High,VeryLow,VeryLow
+1176,Celery,,High,Low,High,VeryLow,VeryLow
+1177,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1178,TableTomato,,High,Low,High,VeryLow,VeryLow
+1179,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1180,Sorghum,,M,Low,M,VeryLow,VeryLow
+1181,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1182,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1183,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1184,Barley,,Low,Low,Low,VeryLow,VeryLow
+1185,ChickPea,,M,Low,M,VeryLow,VeryLow
+1186,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1187,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1188,Jute,,M,Low,M,VeryLow,VeryLow
+1189,Rubber,,Low,M,Low,,
+1190,Tea,,High,Low,M,,
+1191,Tobacco,,High,Low,M,,
+1192,Apple,,High,Low,M,,
+1193,CustardApple,,M,Low,M,,
+1194,WaterMelon,,High,Low,M,,
+1195,Beetroot,,High,High,High,,
+1196,Carrot,,High,High,M,,
+1197,Rice,Oryza sativum,High,M,M,High,Medium
+1198,Wheat,Triticum,High,Low,M,Medium,Medium
+1199,Maize,Zea mays,High,High,Low,Low,VeryLow
+1200,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1201,Coconut,Cocus nucifera,M,High,M,Low,Low
+1202,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1203,Cotton,Gossypium,High,M,M,Low,Low
+1204,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1205,Onion,Allium sepa,High,M,High,High,High
+1206,Potato,Solanum tuberosum,High,High,High,Low,Low
+1207,Brinjal,Solanum melongena,High,M,M,Low,Low
+1208,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1209,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1210,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1211,Banana,Musa acuminata,High,High,High,M,M
+1212,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1213,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1214,Mango,Mangifera indica,High,High,M,Medium,Medium
+1215,Castor,Ricinus communis,High,M,High,Medium,Low
+1216,Mustard,Brassica   ,High,M,M,Low,Low
+1217,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1218,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1219,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1220,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1221,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1222,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1223,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1224,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1225,Garlic,,High,Low,High,,VeryLow
+1226,Peas,,High,Low,High,VeryLow,VeryLow
+1227,Orange,,High,Low,High,VeryLow,VeryLow
+1228,Celery,,High,Low,High,VeryLow,VeryLow
+1229,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1230,TableTomato,,High,Low,High,VeryLow,VeryLow
+1231,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1232,Sorghum,,M,Low,M,VeryLow,VeryLow
+1233,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1234,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1235,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1236,Barley,,Low,Low,Low,VeryLow,VeryLow
+1237,ChickPea,,M,Low,M,VeryLow,VeryLow
+1238,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1239,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1240,Jute,,M,Low,M,VeryLow,VeryLow
+1241,Rubber,,Low,M,Low,,
+1242,Tea,,High,Low,M,,
+1243,Tobacco,,High,Low,M,,
+1244,Apple,,High,Low,M,,
+1245,CustardApple,,M,Low,M,,
+1246,WaterMelon,,High,Low,M,,
+1247,Beetroot,,High,High,High,,
+1248,Carrot,,High,High,M,,
+1249,Rice,Oryza sativum,High,M,M,High,Medium
+1250,Wheat,Triticum,High,Low,M,Medium,Medium
+1251,Maize,Zea mays,High,High,Low,Low,VeryLow
+1252,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1253,Coconut,Cocus nucifera,M,High,M,Low,Low
+1254,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1255,Cotton,Gossypium,High,M,M,Low,Low
+1256,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1257,Onion,Allium sepa,High,M,High,High,High
+1258,Potato,Solanum tuberosum,High,High,High,Low,Low
+1259,Brinjal,Solanum melongena,High,M,M,Low,Low
+1260,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1261,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1262,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1263,Banana,Musa acuminata,High,High,High,M,M
+1264,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1265,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1266,Mango,Mangifera indica,High,High,M,Medium,Medium
+1267,Castor,Ricinus communis,High,M,High,Medium,Low
+1268,Mustard,Brassica   ,High,M,M,Low,Low
+1269,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1270,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1271,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1272,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1273,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1274,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1275,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1276,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1277,Garlic,,High,Low,High,,VeryLow
+1278,Peas,,High,Low,High,VeryLow,VeryLow
+1279,Orange,,High,Low,High,VeryLow,VeryLow
+1280,Celery,,High,Low,High,VeryLow,VeryLow
+1281,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1282,TableTomato,,High,Low,High,VeryLow,VeryLow
+1283,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1284,Sorghum,,M,Low,M,VeryLow,VeryLow
+1285,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1286,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1287,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1288,Barley,,Low,Low,Low,VeryLow,VeryLow
+1289,ChickPea,,M,Low,M,VeryLow,VeryLow
+1290,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1291,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1292,Jute,,M,Low,M,VeryLow,VeryLow
+1293,Rubber,,Low,M,Low,,
+1294,Tea,,High,Low,M,,
+1295,Tobacco,,High,Low,M,,
+1296,Apple,,High,Low,M,,
+1297,CustardApple,,M,Low,M,,
+1298,WaterMelon,,High,Low,M,,
+1299,Beetroot,,High,High,High,,
+1300,Carrot,,High,High,M,,
+1301,Rice,Oryza sativum,High,M,M,High,Medium
+1302,Wheat,Triticum,High,Low,M,Medium,Medium
+1303,Maize,Zea mays,High,High,Low,Low,VeryLow
+1304,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1305,Coconut,Cocus nucifera,M,High,M,Low,Low
+1306,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1307,Cotton,Gossypium,High,M,M,Low,Low
+1308,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1309,Onion,Allium sepa,High,M,High,High,High
+1310,Potato,Solanum tuberosum,High,High,High,Low,Low
+1311,Brinjal,Solanum melongena,High,M,M,Low,Low
+1312,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1313,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1314,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1315,Banana,Musa acuminata,High,High,High,M,M
+1316,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1317,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1318,Mango,Mangifera indica,High,High,M,Medium,Medium
+1319,Castor,Ricinus communis,High,M,High,Medium,Low
+1320,Mustard,Brassica   ,High,M,M,Low,Low
+1321,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1322,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1323,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1324,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1325,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1326,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1327,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1328,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1329,Garlic,,High,Low,High,,VeryLow
+1330,Peas,,High,Low,High,VeryLow,VeryLow
+1331,Orange,,High,Low,High,VeryLow,VeryLow
+1332,Celery,,High,Low,High,VeryLow,VeryLow
+1333,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1334,TableTomato,,High,Low,High,VeryLow,VeryLow
+1335,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1336,Sorghum,,M,Low,M,VeryLow,VeryLow
+1337,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1338,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1339,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1340,Barley,,Low,Low,Low,VeryLow,VeryLow
+1341,ChickPea,,M,Low,M,VeryLow,VeryLow
+1342,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1343,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1344,Jute,,M,Low,M,VeryLow,VeryLow
+1345,Rubber,,Low,M,Low,,
+1346,Tea,,High,Low,M,,
+1347,Tobacco,,High,Low,M,,
+1348,Apple,,High,Low,M,,
+1349,CustardApple,,M,Low,M,,
+1350,WaterMelon,,High,Low,M,,
+1351,Beetroot,,High,High,High,,
+1352,Carrot,,High,High,M,,
+1353,Rice,Oryza sativum,High,M,M,High,Medium
+1354,Wheat,Triticum,High,Low,M,Medium,Medium
+1355,Maize,Zea mays,High,High,Low,Low,VeryLow
+1356,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1357,Coconut,Cocus nucifera,M,High,M,Low,Low
+1358,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1359,Cotton,Gossypium,High,M,M,Low,Low
+1360,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1361,Onion,Allium sepa,High,M,High,High,High
+1362,Potato,Solanum tuberosum,High,High,High,Low,Low
+1363,Brinjal,Solanum melongena,High,M,M,Low,Low
+1364,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1365,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1366,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1367,Banana,Musa acuminata,High,High,High,M,M
+1368,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1369,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1370,Mango,Mangifera indica,High,High,M,Medium,Medium
+1371,Castor,Ricinus communis,High,M,High,Medium,Low
+1372,Mustard,Brassica   ,High,M,M,Low,Low
+1373,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1374,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1375,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1376,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1377,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1378,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1379,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1380,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1381,Garlic,,High,Low,High,,VeryLow
+1382,Peas,,High,Low,High,VeryLow,VeryLow
+1383,Orange,,High,Low,High,VeryLow,VeryLow
+1384,Celery,,High,Low,High,VeryLow,VeryLow
+1385,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1386,TableTomato,,High,Low,High,VeryLow,VeryLow
+1387,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1388,Sorghum,,M,Low,M,VeryLow,VeryLow
+1389,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1390,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1391,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1392,Barley,,Low,Low,Low,VeryLow,VeryLow
+1393,ChickPea,,M,Low,M,VeryLow,VeryLow
+1394,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1395,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1396,Jute,,M,Low,M,VeryLow,VeryLow
+1397,Rubber,,Low,M,Low,,
+1398,Tea,,High,Low,M,,
+1399,Tobacco,,High,Low,M,,
+1400,Apple,,High,Low,M,,
+1401,CustardApple,,M,Low,M,,
+1402,WaterMelon,,High,Low,M,,
+1403,Beetroot,,High,High,High,,
+1404,Carrot,,High,High,M,,
+1405,Rice,Oryza sativum,High,M,M,High,Medium
+1406,Wheat,Triticum,High,Low,M,Medium,Medium
+1407,Maize,Zea mays,High,High,Low,Low,VeryLow
+1408,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1409,Coconut,Cocus nucifera,M,High,M,Low,Low
+1410,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1411,Cotton,Gossypium,High,M,M,Low,Low
+1412,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1413,Onion,Allium sepa,High,M,High,High,High
+1414,Potato,Solanum tuberosum,High,High,High,Low,Low
+1415,Brinjal,Solanum melongena,High,M,M,Low,Low
+1416,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1417,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1418,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1419,Banana,Musa acuminata,High,High,High,M,M
+1420,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1421,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1422,Mango,Mangifera indica,High,High,M,Medium,Medium
+1423,Castor,Ricinus communis,High,M,High,Medium,Low
+1424,Mustard,Brassica   ,High,M,M,Low,Low
+1425,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1426,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1427,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1428,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1429,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1430,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1431,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1432,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1433,Garlic,,High,Low,High,,VeryLow
+1434,Peas,,High,Low,High,VeryLow,VeryLow
+1435,Orange,,High,Low,High,VeryLow,VeryLow
+1436,Celery,,High,Low,High,VeryLow,VeryLow
+1437,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1438,TableTomato,,High,Low,High,VeryLow,VeryLow
+1439,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1440,Sorghum,,M,Low,M,VeryLow,VeryLow
+1441,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1442,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1443,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1444,Barley,,Low,Low,Low,VeryLow,VeryLow
+1445,ChickPea,,M,Low,M,VeryLow,VeryLow
+1446,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1447,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1448,Jute,,M,Low,M,VeryLow,VeryLow
+1449,Rubber,,Low,M,Low,,
+1450,Tea,,High,Low,M,,
+1451,Tobacco,,High,Low,M,,
+1452,Apple,,High,Low,M,,
+1453,CustardApple,,M,Low,M,,
+1454,WaterMelon,,High,Low,M,,
+1455,Beetroot,,High,High,High,,
+1456,Carrot,,High,High,M,,
+1457,Rice,Oryza sativum,High,M,M,High,Medium
+1458,Wheat,Triticum,High,Low,M,Medium,Medium
+1459,Maize,Zea mays,High,High,Low,Low,VeryLow
+1460,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1461,Coconut,Cocus nucifera,M,High,M,Low,Low
+1462,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1463,Cotton,Gossypium,High,M,M,Low,Low
+1464,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1465,Onion,Allium sepa,High,M,High,High,High
+1466,Potato,Solanum tuberosum,High,High,High,Low,Low
+1467,Brinjal,Solanum melongena,High,M,M,Low,Low
+1468,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1469,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1470,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1471,Banana,Musa acuminata,High,High,High,M,M
+1472,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1473,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1474,Mango,Mangifera indica,High,High,M,Medium,Medium
+1475,Castor,Ricinus communis,High,M,High,Medium,Low
+1476,Mustard,Brassica   ,High,M,M,Low,Low
+1477,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1478,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1479,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1480,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1481,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1482,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1483,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1484,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1485,Garlic,,High,Low,High,,VeryLow
+1486,Peas,,High,Low,High,VeryLow,VeryLow
+1487,Orange,,High,Low,High,VeryLow,VeryLow
+1488,Celery,,High,Low,High,VeryLow,VeryLow
+1489,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1490,TableTomato,,High,Low,High,VeryLow,VeryLow
+1491,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1492,Sorghum,,M,Low,M,VeryLow,VeryLow
+1493,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1494,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1495,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1496,Barley,,Low,Low,Low,VeryLow,VeryLow
+1497,ChickPea,,M,Low,M,VeryLow,VeryLow
+1498,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1499,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1500,Jute,,M,Low,M,VeryLow,VeryLow
+1501,Rubber,,Low,M,Low,,
+1502,Tea,,High,Low,M,,
+1503,Tobacco,,High,Low,M,,
+1504,Apple,,High,Low,M,,
+1505,CustardApple,,M,Low,M,,
+1506,WaterMelon,,High,Low,M,,
+1507,Beetroot,,High,High,High,,
+1508,Carrot,,High,High,M,,
+1509,Rice,Oryza sativum,High,M,M,High,Medium
+1510,Wheat,Triticum,High,Low,M,Medium,Medium
+1511,Maize,Zea mays,High,High,Low,Low,VeryLow
+1512,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1513,Coconut,Cocus nucifera,M,High,M,Low,Low
+1514,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1515,Cotton,Gossypium,High,M,M,Low,Low
+1516,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1517,Onion,Allium sepa,High,M,High,High,High
+1518,Potato,Solanum tuberosum,High,High,High,Low,Low
+1519,Brinjal,Solanum melongena,High,M,M,Low,Low
+1520,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1521,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1522,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1523,Banana,Musa acuminata,High,High,High,M,M
+1524,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1525,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1526,Mango,Mangifera indica,High,High,M,Medium,Medium
+1527,Castor,Ricinus communis,High,M,High,Medium,Low
+1528,Mustard,Brassica   ,High,M,M,Low,Low
+1529,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1530,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1531,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1532,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1533,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1534,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1535,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1536,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1537,Garlic,,High,Low,High,,VeryLow
+1538,Peas,,High,Low,High,VeryLow,VeryLow
+1539,Orange,,High,Low,High,VeryLow,VeryLow
+1540,Celery,,High,Low,High,VeryLow,VeryLow
+1541,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1542,TableTomato,,High,Low,High,VeryLow,VeryLow
+1543,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1544,Sorghum,,M,Low,M,VeryLow,VeryLow
+1545,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1546,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1547,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1548,Barley,,Low,Low,Low,VeryLow,VeryLow
+1549,ChickPea,,M,Low,M,VeryLow,VeryLow
+1550,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1551,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1552,Jute,,M,Low,M,VeryLow,VeryLow
+1553,Rubber,,Low,M,Low,,
+1554,Tea,,High,Low,M,,
+1555,Tobacco,,High,Low,M,,
+1556,Apple,,High,Low,M,,
+1557,CustardApple,,M,Low,M,,
+1558,WaterMelon,,High,Low,M,,
+1559,Beetroot,,High,High,High,,
+1560,Carrot,,High,High,M,,
+1561,Rice,Oryza sativum,High,M,M,High,Medium
+1562,Wheat,Triticum,High,Low,M,Medium,Medium
+1563,Maize,Zea mays,High,High,Low,Low,VeryLow
+1564,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1565,Coconut,Cocus nucifera,M,High,M,Low,Low
+1566,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1567,Cotton,Gossypium,High,M,M,Low,Low
+1568,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1569,Onion,Allium sepa,High,M,High,High,High
+1570,Potato,Solanum tuberosum,High,High,High,Low,Low
+1571,Brinjal,Solanum melongena,High,M,M,Low,Low
+1572,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1573,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1574,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1575,Banana,Musa acuminata,High,High,High,M,M
+1576,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1577,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1578,Mango,Mangifera indica,High,High,M,Medium,Medium
+1579,Castor,Ricinus communis,High,M,High,Medium,Low
+1580,Mustard,Brassica   ,High,M,M,Low,Low
+1581,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1582,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1583,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1584,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1585,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1586,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1587,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1588,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1589,Garlic,,High,Low,High,,VeryLow
+1590,Peas,,High,Low,High,VeryLow,VeryLow
+1591,Orange,,High,Low,High,VeryLow,VeryLow
+1592,Celery,,High,Low,High,VeryLow,VeryLow
+1593,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1594,TableTomato,,High,Low,High,VeryLow,VeryLow
+1595,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1596,Sorghum,,M,Low,M,VeryLow,VeryLow
+1597,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1598,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1599,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1600,Barley,,Low,Low,Low,VeryLow,VeryLow
+1601,ChickPea,,M,Low,M,VeryLow,VeryLow
+1602,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1603,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1604,Jute,,M,Low,M,VeryLow,VeryLow
+1605,Rubber,,Low,M,Low,,
+1606,Tea,,High,Low,M,,
+1607,Tobacco,,High,Low,M,,
+1608,Apple,,High,Low,M,,
+1609,CustardApple,,M,Low,M,,
+1610,WaterMelon,,High,Low,M,,
+1611,Beetroot,,High,High,High,,
+1612,Carrot,,High,High,M,,
+1613,Rice,Oryza sativum,High,M,M,High,Medium
+1614,Wheat,Triticum,High,Low,M,Medium,Medium
+1615,Maize,Zea mays,High,High,Low,Low,VeryLow
+1616,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1617,Coconut,Cocus nucifera,M,High,M,Low,Low
+1618,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1619,Cotton,Gossypium,High,M,M,Low,Low
+1620,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1621,Onion,Allium sepa,High,M,High,High,High
+1622,Potato,Solanum tuberosum,High,High,High,Low,Low
+1623,Brinjal,Solanum melongena,High,M,M,Low,Low
+1624,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1625,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1626,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1627,Banana,Musa acuminata,High,High,High,M,M
+1628,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1629,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1630,Mango,Mangifera indica,High,High,M,Medium,Medium
+1631,Castor,Ricinus communis,High,M,High,Medium,Low
+1632,Mustard,Brassica   ,High,M,M,Low,Low
+1633,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1634,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1635,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1636,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1637,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1638,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1639,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1640,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1641,Garlic,,High,Low,High,,VeryLow
+1642,Peas,,High,Low,High,VeryLow,VeryLow
+1643,Orange,,High,Low,High,VeryLow,VeryLow
+1644,Celery,,High,Low,High,VeryLow,VeryLow
+1645,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1646,TableTomato,,High,Low,High,VeryLow,VeryLow
+1647,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1648,Sorghum,,M,Low,M,VeryLow,VeryLow
+1649,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1650,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1651,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1652,Barley,,Low,Low,Low,VeryLow,VeryLow
+1653,ChickPea,,M,Low,M,VeryLow,VeryLow
+1654,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1655,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1656,Jute,,M,Low,M,VeryLow,VeryLow
+1657,Rubber,,Low,M,Low,,
+1658,Tea,,High,Low,M,,
+1659,Tobacco,,High,Low,M,,
+1660,Apple,,High,Low,M,,
+1661,CustardApple,,M,Low,M,,
+1662,WaterMelon,,High,Low,M,,
+1663,Beetroot,,High,High,High,,
+1664,Carrot,,High,High,M,,
+1665,Rice,Oryza sativum,High,M,M,High,Medium
+1666,Wheat,Triticum,High,Low,M,Medium,Medium
+1667,Maize,Zea mays,High,High,Low,Low,VeryLow
+1668,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1669,Coconut,Cocus nucifera,M,High,M,Low,Low
+1670,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1671,Cotton,Gossypium,High,M,M,Low,Low
+1672,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1673,Onion,Allium sepa,High,M,High,High,High
+1674,Potato,Solanum tuberosum,High,High,High,Low,Low
+1675,Brinjal,Solanum melongena,High,M,M,Low,Low
+1676,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1677,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1678,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1679,Banana,Musa acuminata,High,High,High,M,M
+1680,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1681,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1682,Mango,Mangifera indica,High,High,M,Medium,Medium
+1683,Castor,Ricinus communis,High,M,High,Medium,Low
+1684,Mustard,Brassica   ,High,M,M,Low,Low
+1685,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1686,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1687,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1688,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1689,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1690,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1691,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1692,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1693,Garlic,,High,Low,High,,VeryLow
+1694,Peas,,High,Low,High,VeryLow,VeryLow
+1695,Orange,,High,Low,High,VeryLow,VeryLow
+1696,Celery,,High,Low,High,VeryLow,VeryLow
+1697,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1698,TableTomato,,High,Low,High,VeryLow,VeryLow
+1699,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1700,Sorghum,,M,Low,M,VeryLow,VeryLow
+1701,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1702,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1703,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1704,Barley,,Low,Low,Low,VeryLow,VeryLow
+1705,ChickPea,,M,Low,M,VeryLow,VeryLow
+1706,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1707,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1708,Jute,,M,Low,M,VeryLow,VeryLow
+1709,Rubber,,Low,M,Low,,
+1710,Tea,,High,Low,M,,
+1711,Tobacco,,High,Low,M,,
+1712,Apple,,High,Low,M,,
+1713,CustardApple,,M,Low,M,,
+1714,WaterMelon,,High,Low,M,,
+1715,Beetroot,,High,High,High,,
+1716,Carrot,,High,High,M,,
+1717,Rice,Oryza sativum,High,M,M,High,Medium
+1718,Wheat,Triticum,High,Low,M,Medium,Medium
+1719,Maize,Zea mays,High,High,Low,Low,VeryLow
+1720,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1721,Coconut,Cocus nucifera,M,High,M,Low,Low
+1722,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1723,Cotton,Gossypium,High,M,M,Low,Low
+1724,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1725,Onion,Allium sepa,High,M,High,High,High
+1726,Potato,Solanum tuberosum,High,High,High,Low,Low
+1727,Brinjal,Solanum melongena,High,M,M,Low,Low
+1728,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1729,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1730,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1731,Banana,Musa acuminata,High,High,High,M,M
+1732,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1733,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1734,Mango,Mangifera indica,High,High,M,Medium,Medium
+1735,Castor,Ricinus communis,High,M,High,Medium,Low
+1736,Mustard,Brassica   ,High,M,M,Low,Low
+1737,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1738,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1739,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1740,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1741,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1742,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1743,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1744,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1745,Garlic,,High,Low,High,,VeryLow
+1746,Peas,,High,Low,High,VeryLow,VeryLow
+1747,Orange,,High,Low,High,VeryLow,VeryLow
+1748,Celery,,High,Low,High,VeryLow,VeryLow
+1749,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1750,TableTomato,,High,Low,High,VeryLow,VeryLow
+1751,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1752,Sorghum,,M,Low,M,VeryLow,VeryLow
+1753,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1754,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1755,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1756,Barley,,Low,Low,Low,VeryLow,VeryLow
+1757,ChickPea,,M,Low,M,VeryLow,VeryLow
+1758,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1759,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1760,Jute,,M,Low,M,VeryLow,VeryLow
+1761,Rubber,,Low,M,Low,,
+1762,Tea,,High,Low,M,,
+1763,Tobacco,,High,Low,M,,
+1764,Apple,,High,Low,M,,
+1765,CustardApple,,M,Low,M,,
+1766,WaterMelon,,High,Low,M,,
+1767,Beetroot,,High,High,High,,
+1768,Carrot,,High,High,M,,
+1769,Rice,Oryza sativum,High,M,M,High,Medium
+1770,Wheat,Triticum,High,Low,M,Medium,Medium
+1771,Maize,Zea mays,High,High,Low,Low,VeryLow
+1772,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1773,Coconut,Cocus nucifera,M,High,M,Low,Low
+1774,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1775,Cotton,Gossypium,High,M,M,Low,Low
+1776,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1777,Onion,Allium sepa,High,M,High,High,High
+1778,Potato,Solanum tuberosum,High,High,High,Low,Low
+1779,Brinjal,Solanum melongena,High,M,M,Low,Low
+1780,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1781,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1782,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1783,Banana,Musa acuminata,High,High,High,M,M
+1784,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1785,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1786,Mango,Mangifera indica,High,High,M,Medium,Medium
+1787,Castor,Ricinus communis,High,M,High,Medium,Low
+1788,Mustard,Brassica   ,High,M,M,Low,Low
+1789,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1790,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1791,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1792,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1793,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1794,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1795,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1796,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1797,Garlic,,High,Low,High,,VeryLow
+1798,Peas,,High,Low,High,VeryLow,VeryLow
+1799,Orange,,High,Low,High,VeryLow,VeryLow
+1800,Celery,,High,Low,High,VeryLow,VeryLow
+1801,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1802,TableTomato,,High,Low,High,VeryLow,VeryLow
+1803,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1804,Sorghum,,M,Low,M,VeryLow,VeryLow
+1805,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1806,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1807,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1808,Barley,,Low,Low,Low,VeryLow,VeryLow
+1809,ChickPea,,M,Low,M,VeryLow,VeryLow
+1810,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1811,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1812,Jute,,M,Low,M,VeryLow,VeryLow
+1813,Rubber,,Low,M,Low,,
+1814,Tea,,High,Low,M,,
+1815,Tobacco,,High,Low,M,,
+1816,Apple,,High,Low,M,,
+1817,CustardApple,,M,Low,M,,
+1818,WaterMelon,,High,Low,M,,
+1819,Beetroot,,High,High,High,,
+1820,Carrot,,High,High,M,,
+1821,Rice,Oryza sativum,High,M,M,High,Medium
+1822,Wheat,Triticum,High,Low,M,Medium,Medium
+1823,Maize,Zea mays,High,High,Low,Low,VeryLow
+1824,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1825,Coconut,Cocus nucifera,M,High,M,Low,Low
+1826,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1827,Cotton,Gossypium,High,M,M,Low,Low
+1828,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1829,Onion,Allium sepa,High,M,High,High,High
+1830,Potato,Solanum tuberosum,High,High,High,Low,Low
+1831,Brinjal,Solanum melongena,High,M,M,Low,Low
+1832,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1833,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1834,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1835,Banana,Musa acuminata,High,High,High,M,M
+1836,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1837,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1838,Mango,Mangifera indica,High,High,M,Medium,Medium
+1839,Castor,Ricinus communis,High,M,High,Medium,Low
+1840,Mustard,Brassica   ,High,M,M,Low,Low
+1841,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1842,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1843,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1844,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1845,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1846,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1847,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1848,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1849,Garlic,,High,Low,High,,VeryLow
+1850,Peas,,High,Low,High,VeryLow,VeryLow
+1851,Orange,,High,Low,High,VeryLow,VeryLow
+1852,Celery,,High,Low,High,VeryLow,VeryLow
+1853,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1854,TableTomato,,High,Low,High,VeryLow,VeryLow
+1855,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1856,Sorghum,,M,Low,M,VeryLow,VeryLow
+1857,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1858,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1859,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1860,Barley,,Low,Low,Low,VeryLow,VeryLow
+1861,ChickPea,,M,Low,M,VeryLow,VeryLow
+1862,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1863,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1864,Jute,,M,Low,M,VeryLow,VeryLow
+1865,Rubber,,Low,M,Low,,
+1866,Tea,,High,Low,M,,
+1867,Tobacco,,High,Low,M,,
+1868,Apple,,High,Low,M,,
+1869,CustardApple,,M,Low,M,,
+1870,WaterMelon,,High,Low,M,,
+1871,Beetroot,,High,High,High,,
+1872,Carrot,,High,High,M,,
+1873,Rice,Oryza sativum,High,M,M,High,Medium
+1874,Wheat,Triticum,High,Low,M,Medium,Medium
+1875,Maize,Zea mays,High,High,Low,Low,VeryLow
+1876,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1877,Coconut,Cocus nucifera,M,High,M,Low,Low
+1878,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1879,Cotton,Gossypium,High,M,M,Low,Low
+1880,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1881,Onion,Allium sepa,High,M,High,High,High
+1882,Potato,Solanum tuberosum,High,High,High,Low,Low
+1883,Brinjal,Solanum melongena,High,M,M,Low,Low
+1884,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1885,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1886,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1887,Banana,Musa acuminata,High,High,High,M,M
+1888,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1889,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1890,Mango,Mangifera indica,High,High,M,Medium,Medium
+1891,Castor,Ricinus communis,High,M,High,Medium,Low
+1892,Mustard,Brassica   ,High,M,M,Low,Low
+1893,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1894,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1895,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1896,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1897,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1898,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1899,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1900,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1901,Garlic,,High,Low,High,,VeryLow
+1902,Peas,,High,Low,High,VeryLow,VeryLow
+1903,Orange,,High,Low,High,VeryLow,VeryLow
+1904,Celery,,High,Low,High,VeryLow,VeryLow
+1905,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1906,TableTomato,,High,Low,High,VeryLow,VeryLow
+1907,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1908,Sorghum,,M,Low,M,VeryLow,VeryLow
+1909,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1910,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1911,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1912,Barley,,Low,Low,Low,VeryLow,VeryLow
+1913,ChickPea,,M,Low,M,VeryLow,VeryLow
+1914,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1915,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1916,Jute,,M,Low,M,VeryLow,VeryLow
+1917,Rubber,,Low,M,Low,,
+1918,Tea,,High,Low,M,,
+1919,Tobacco,,High,Low,M,,
+1920,Apple,,High,Low,M,,
+1921,CustardApple,,M,Low,M,,
+1922,WaterMelon,,High,Low,M,,
+1923,Beetroot,,High,High,High,,
+1924,Carrot,,High,High,M,,
+1925,Rice,Oryza sativum,High,M,M,High,Medium
+1926,Wheat,Triticum,High,Low,M,Medium,Medium
+1927,Maize,Zea mays,High,High,Low,Low,VeryLow
+1928,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1929,Coconut,Cocus nucifera,M,High,M,Low,Low
+1930,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1931,Cotton,Gossypium,High,M,M,Low,Low
+1932,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1933,Onion,Allium sepa,High,M,High,High,High
+1934,Potato,Solanum tuberosum,High,High,High,Low,Low
+1935,Brinjal,Solanum melongena,High,M,M,Low,Low
+1936,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1937,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1938,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1939,Banana,Musa acuminata,High,High,High,M,M
+1940,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1941,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1942,Mango,Mangifera indica,High,High,M,Medium,Medium
+1943,Castor,Ricinus communis,High,M,High,Medium,Low
+1944,Mustard,Brassica   ,High,M,M,Low,Low
+1945,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1946,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1947,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+1948,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+1949,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+1950,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+1951,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+1952,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+1953,Garlic,,High,Low,High,,VeryLow
+1954,Peas,,High,Low,High,VeryLow,VeryLow
+1955,Orange,,High,Low,High,VeryLow,VeryLow
+1956,Celery,,High,Low,High,VeryLow,VeryLow
+1957,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+1958,TableTomato,,High,Low,High,VeryLow,VeryLow
+1959,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+1960,Sorghum,,M,Low,M,VeryLow,VeryLow
+1961,PearlMillet,,M,Low,M,VeryLow,VeryLow
+1962,Raagi,,Low,Low,Low,VeryLow,VeryLow
+1963,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+1964,Barley,,Low,Low,Low,VeryLow,VeryLow
+1965,ChickPea,,M,Low,M,VeryLow,VeryLow
+1966,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+1967,SoyaBean,,High,Low,M,VeryLow,VeryLow
+1968,Jute,,M,Low,M,VeryLow,VeryLow
+1969,Rubber,,Low,M,Low,,
+1970,Tea,,High,Low,M,,
+1971,Tobacco,,High,Low,M,,
+1972,Apple,,High,Low,M,,
+1973,CustardApple,,M,Low,M,,
+1974,WaterMelon,,High,Low,M,,
+1975,Beetroot,,High,High,High,,
+1976,Carrot,,High,High,M,,
+1977,Rice,Oryza sativum,High,M,M,High,Medium
+1978,Wheat,Triticum,High,Low,M,Medium,Medium
+1979,Maize,Zea mays,High,High,Low,Low,VeryLow
+1980,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+1981,Coconut,Cocus nucifera,M,High,M,Low,Low
+1982,Chilli,Capsicum frutescens,High,M,M,Low,Low
+1983,Cotton,Gossypium,High,M,M,Low,Low
+1984,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+1985,Onion,Allium sepa,High,M,High,High,High
+1986,Potato,Solanum tuberosum,High,High,High,Low,Low
+1987,Brinjal,Solanum melongena,High,M,M,Low,Low
+1988,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+1989,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+1990,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+1991,Banana,Musa acuminata,High,High,High,M,M
+1992,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+1993,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+1994,Mango,Mangifera indica,High,High,M,Medium,Medium
+1995,Castor,Ricinus communis,High,M,High,Medium,Low
+1996,Mustard,Brassica   ,High,M,M,Low,Low
+1997,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+1998,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+1999,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2000,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2001,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2002,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2003,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2004,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2005,Garlic,,High,Low,High,,VeryLow
+2006,Peas,,High,Low,High,VeryLow,VeryLow
+2007,Orange,,High,Low,High,VeryLow,VeryLow
+2008,Celery,,High,Low,High,VeryLow,VeryLow
+2009,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2010,TableTomato,,High,Low,High,VeryLow,VeryLow
+2011,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2012,Sorghum,,M,Low,M,VeryLow,VeryLow
+2013,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2014,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2015,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2016,Barley,,Low,Low,Low,VeryLow,VeryLow
+2017,ChickPea,,M,Low,M,VeryLow,VeryLow
+2018,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2019,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2020,Jute,,M,Low,M,VeryLow,VeryLow
+2021,Rubber,,Low,M,Low,,
+2022,Tea,,High,Low,M,,
+2023,Tobacco,,High,Low,M,,
+2024,Apple,,High,Low,M,,
+2025,CustardApple,,M,Low,M,,
+2026,WaterMelon,,High,Low,M,,
+2027,Beetroot,,High,High,High,,
+2028,Carrot,,High,High,M,,
+2029,Rice,Oryza sativum,High,M,M,High,Medium
+2030,Wheat,Triticum,High,Low,M,Medium,Medium
+2031,Maize,Zea mays,High,High,Low,Low,VeryLow
+2032,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2033,Coconut,Cocus nucifera,M,High,M,Low,Low
+2034,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2035,Cotton,Gossypium,High,M,M,Low,Low
+2036,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2037,Onion,Allium sepa,High,M,High,High,High
+2038,Potato,Solanum tuberosum,High,High,High,Low,Low
+2039,Brinjal,Solanum melongena,High,M,M,Low,Low
+2040,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2041,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2042,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2043,Banana,Musa acuminata,High,High,High,M,M
+2044,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2045,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2046,Mango,Mangifera indica,High,High,M,Medium,Medium
+2047,Castor,Ricinus communis,High,M,High,Medium,Low
+2048,Mustard,Brassica   ,High,M,M,Low,Low
+2049,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2050,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2051,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2052,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2053,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2054,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2055,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2056,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2057,Garlic,,High,Low,High,,VeryLow
+2058,Peas,,High,Low,High,VeryLow,VeryLow
+2059,Orange,,High,Low,High,VeryLow,VeryLow
+2060,Celery,,High,Low,High,VeryLow,VeryLow
+2061,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2062,TableTomato,,High,Low,High,VeryLow,VeryLow
+2063,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2064,Sorghum,,M,Low,M,VeryLow,VeryLow
+2065,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2066,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2067,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2068,Barley,,Low,Low,Low,VeryLow,VeryLow
+2069,ChickPea,,M,Low,M,VeryLow,VeryLow
+2070,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2071,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2072,Jute,,M,Low,M,VeryLow,VeryLow
+2073,Rubber,,Low,M,Low,,
+2074,Tea,,High,Low,M,,
+2075,Tobacco,,High,Low,M,,
+2076,Apple,,High,Low,M,,
+2077,CustardApple,,M,Low,M,,
+2078,WaterMelon,,High,Low,M,,
+2079,Beetroot,,High,High,High,,
+2080,Carrot,,High,High,M,,
+2081,Rice,Oryza sativum,High,M,M,High,Medium
+2082,Wheat,Triticum,High,Low,M,Medium,Medium
+2083,Maize,Zea mays,High,High,Low,Low,VeryLow
+2084,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2085,Coconut,Cocus nucifera,M,High,M,Low,Low
+2086,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2087,Cotton,Gossypium,High,M,M,Low,Low
+2088,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2089,Onion,Allium sepa,High,M,High,High,High
+2090,Potato,Solanum tuberosum,High,High,High,Low,Low
+2091,Brinjal,Solanum melongena,High,M,M,Low,Low
+2092,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2093,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2094,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2095,Banana,Musa acuminata,High,High,High,M,M
+2096,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2097,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2098,Mango,Mangifera indica,High,High,M,Medium,Medium
+2099,Castor,Ricinus communis,High,M,High,Medium,Low
+2100,Mustard,Brassica   ,High,M,M,Low,Low
+2101,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2102,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2103,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2104,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2105,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2106,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2107,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2108,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2109,Garlic,,High,Low,High,,VeryLow
+2110,Peas,,High,Low,High,VeryLow,VeryLow
+2111,Orange,,High,Low,High,VeryLow,VeryLow
+2112,Celery,,High,Low,High,VeryLow,VeryLow
+2113,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2114,TableTomato,,High,Low,High,VeryLow,VeryLow
+2115,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2116,Sorghum,,M,Low,M,VeryLow,VeryLow
+2117,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2118,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2119,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2120,Barley,,Low,Low,Low,VeryLow,VeryLow
+2121,ChickPea,,M,Low,M,VeryLow,VeryLow
+2122,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2123,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2124,Jute,,M,Low,M,VeryLow,VeryLow
+2125,Rubber,,Low,M,Low,,
+2126,Tea,,High,Low,M,,
+2127,Tobacco,,High,Low,M,,
+2128,Apple,,High,Low,M,,
+2129,CustardApple,,M,Low,M,,
+2130,WaterMelon,,High,Low,M,,
+2131,Beetroot,,High,High,High,,
+2132,Carrot,,High,High,M,,
+2133,Rice,Oryza sativum,High,M,M,High,Medium
+2134,Wheat,Triticum,High,Low,M,Medium,Medium
+2135,Maize,Zea mays,High,High,Low,Low,VeryLow
+2136,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2137,Coconut,Cocus nucifera,M,High,M,Low,Low
+2138,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2139,Cotton,Gossypium,High,M,M,Low,Low
+2140,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2141,Onion,Allium sepa,High,M,High,High,High
+2142,Potato,Solanum tuberosum,High,High,High,Low,Low
+2143,Brinjal,Solanum melongena,High,M,M,Low,Low
+2144,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2145,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2146,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2147,Banana,Musa acuminata,High,High,High,M,M
+2148,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2149,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2150,Mango,Mangifera indica,High,High,M,Medium,Medium
+2151,Castor,Ricinus communis,High,M,High,Medium,Low
+2152,Mustard,Brassica   ,High,M,M,Low,Low
+2153,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2154,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2155,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2156,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2157,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2158,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2159,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2160,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2161,Garlic,,High,Low,High,,VeryLow
+2162,Peas,,High,Low,High,VeryLow,VeryLow
+2163,Orange,,High,Low,High,VeryLow,VeryLow
+2164,Celery,,High,Low,High,VeryLow,VeryLow
+2165,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2166,TableTomato,,High,Low,High,VeryLow,VeryLow
+2167,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2168,Sorghum,,M,Low,M,VeryLow,VeryLow
+2169,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2170,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2171,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2172,Barley,,Low,Low,Low,VeryLow,VeryLow
+2173,ChickPea,,M,Low,M,VeryLow,VeryLow
+2174,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2175,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2176,Jute,,M,Low,M,VeryLow,VeryLow
+2177,Rubber,,Low,M,Low,,
+2178,Tea,,High,Low,M,,
+2179,Tobacco,,High,Low,M,,
+2180,Apple,,High,Low,M,,
+2181,CustardApple,,M,Low,M,,
+2182,WaterMelon,,High,Low,M,,
+2183,Beetroot,,High,High,High,,
+2184,Carrot,,High,High,M,,
+2185,Rice,Oryza sativum,High,M,M,High,Medium
+2186,Wheat,Triticum,High,Low,M,Medium,Medium
+2187,Maize,Zea mays,High,High,Low,Low,VeryLow
+2188,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2189,Coconut,Cocus nucifera,M,High,M,Low,Low
+2190,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2191,Cotton,Gossypium,High,M,M,Low,Low
+2192,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2193,Onion,Allium sepa,High,M,High,High,High
+2194,Potato,Solanum tuberosum,High,High,High,Low,Low
+2195,Brinjal,Solanum melongena,High,M,M,Low,Low
+2196,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2197,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2198,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2199,Banana,Musa acuminata,High,High,High,M,M
+2200,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2201,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2202,Mango,Mangifera indica,High,High,M,Medium,Medium
+2203,Castor,Ricinus communis,High,M,High,Medium,Low
+2204,Mustard,Brassica   ,High,M,M,Low,Low
+2205,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2206,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2207,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2208,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2209,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2210,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2211,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2212,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2213,Garlic,,High,Low,High,,VeryLow
+2214,Peas,,High,Low,High,VeryLow,VeryLow
+2215,Orange,,High,Low,High,VeryLow,VeryLow
+2216,Celery,,High,Low,High,VeryLow,VeryLow
+2217,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2218,TableTomato,,High,Low,High,VeryLow,VeryLow
+2219,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2220,Sorghum,,M,Low,M,VeryLow,VeryLow
+2221,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2222,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2223,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2224,Barley,,Low,Low,Low,VeryLow,VeryLow
+2225,ChickPea,,M,Low,M,VeryLow,VeryLow
+2226,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2227,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2228,Jute,,M,Low,M,VeryLow,VeryLow
+2229,Rubber,,Low,M,Low,,
+2230,Tea,,High,Low,M,,
+2231,Tobacco,,High,Low,M,,
+2232,Apple,,High,Low,M,,
+2233,CustardApple,,M,Low,M,,
+2234,WaterMelon,,High,Low,M,,
+2235,Beetroot,,High,High,High,,
+2236,Carrot,,High,High,M,,
+2237,Rice,Oryza sativum,High,M,M,High,Medium
+2238,Wheat,Triticum,High,Low,M,Medium,Medium
+2239,Maize,Zea mays,High,High,Low,Low,VeryLow
+2240,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2241,Coconut,Cocus nucifera,M,High,M,Low,Low
+2242,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2243,Cotton,Gossypium,High,M,M,Low,Low
+2244,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2245,Onion,Allium sepa,High,M,High,High,High
+2246,Potato,Solanum tuberosum,High,High,High,Low,Low
+2247,Brinjal,Solanum melongena,High,M,M,Low,Low
+2248,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2249,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2250,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2251,Banana,Musa acuminata,High,High,High,M,M
+2252,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2253,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2254,Mango,Mangifera indica,High,High,M,Medium,Medium
+2255,Castor,Ricinus communis,High,M,High,Medium,Low
+2256,Mustard,Brassica   ,High,M,M,Low,Low
+2257,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2258,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2259,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2260,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2261,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2262,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2263,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2264,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2265,Garlic,,High,Low,High,,VeryLow
+2266,Peas,,High,Low,High,VeryLow,VeryLow
+2267,Orange,,High,Low,High,VeryLow,VeryLow
+2268,Celery,,High,Low,High,VeryLow,VeryLow
+2269,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2270,TableTomato,,High,Low,High,VeryLow,VeryLow
+2271,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2272,Sorghum,,M,Low,M,VeryLow,VeryLow
+2273,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2274,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2275,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2276,Barley,,Low,Low,Low,VeryLow,VeryLow
+2277,ChickPea,,M,Low,M,VeryLow,VeryLow
+2278,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2279,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2280,Jute,,M,Low,M,VeryLow,VeryLow
+2281,Rubber,,Low,M,Low,,
+2282,Tea,,High,Low,M,,
+2283,Tobacco,,High,Low,M,,
+2284,Apple,,High,Low,M,,
+2285,CustardApple,,M,Low,M,,
+2286,WaterMelon,,High,Low,M,,
+2287,Beetroot,,High,High,High,,
+2288,Carrot,,High,High,M,,
+2289,Rice,Oryza sativum,High,M,M,High,Medium
+2290,Wheat,Triticum,High,Low,M,Medium,Medium
+2291,Maize,Zea mays,High,High,Low,Low,VeryLow
+2292,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2293,Coconut,Cocus nucifera,M,High,M,Low,Low
+2294,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2295,Cotton,Gossypium,High,M,M,Low,Low
+2296,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2297,Onion,Allium sepa,High,M,High,High,High
+2298,Potato,Solanum tuberosum,High,High,High,Low,Low
+2299,Brinjal,Solanum melongena,High,M,M,Low,Low
+2300,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2301,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2302,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2303,Banana,Musa acuminata,High,High,High,M,M
+2304,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2305,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2306,Mango,Mangifera indica,High,High,M,Medium,Medium
+2307,Castor,Ricinus communis,High,M,High,Medium,Low
+2308,Mustard,Brassica   ,High,M,M,Low,Low
+2309,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2310,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2311,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2312,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2313,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2314,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2315,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2316,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2317,Garlic,,High,Low,High,,VeryLow
+2318,Peas,,High,Low,High,VeryLow,VeryLow
+2319,Orange,,High,Low,High,VeryLow,VeryLow
+2320,Celery,,High,Low,High,VeryLow,VeryLow
+2321,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2322,TableTomato,,High,Low,High,VeryLow,VeryLow
+2323,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2324,Sorghum,,M,Low,M,VeryLow,VeryLow
+2325,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2326,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2327,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2328,Barley,,Low,Low,Low,VeryLow,VeryLow
+2329,ChickPea,,M,Low,M,VeryLow,VeryLow
+2330,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2331,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2332,Jute,,M,Low,M,VeryLow,VeryLow
+2333,Rubber,,Low,M,Low,,
+2334,Tea,,High,Low,M,,
+2335,Tobacco,,High,Low,M,,
+2336,Apple,,High,Low,M,,
+2337,CustardApple,,M,Low,M,,
+2338,WaterMelon,,High,Low,M,,
+2339,Beetroot,,High,High,High,,
+2340,Carrot,,High,High,M,,
+2341,Rice,Oryza sativum,High,M,M,High,Medium
+2342,Wheat,Triticum,High,Low,M,Medium,Medium
+2343,Maize,Zea mays,High,High,Low,Low,VeryLow
+2344,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2345,Coconut,Cocus nucifera,M,High,M,Low,Low
+2346,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2347,Cotton,Gossypium,High,M,M,Low,Low
+2348,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2349,Onion,Allium sepa,High,M,High,High,High
+2350,Potato,Solanum tuberosum,High,High,High,Low,Low
+2351,Brinjal,Solanum melongena,High,M,M,Low,Low
+2352,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2353,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2354,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2355,Banana,Musa acuminata,High,High,High,M,M
+2356,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2357,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2358,Mango,Mangifera indica,High,High,M,Medium,Medium
+2359,Castor,Ricinus communis,High,M,High,Medium,Low
+2360,Mustard,Brassica   ,High,M,M,Low,Low
+2361,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2362,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2363,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2364,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2365,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2366,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2367,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2368,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2369,Garlic,,High,Low,High,,VeryLow
+2370,Peas,,High,Low,High,VeryLow,VeryLow
+2371,Orange,,High,Low,High,VeryLow,VeryLow
+2372,Celery,,High,Low,High,VeryLow,VeryLow
+2373,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2374,TableTomato,,High,Low,High,VeryLow,VeryLow
+2375,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2376,Sorghum,,M,Low,M,VeryLow,VeryLow
+2377,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2378,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2379,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2380,Barley,,Low,Low,Low,VeryLow,VeryLow
+2381,ChickPea,,M,Low,M,VeryLow,VeryLow
+2382,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2383,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2384,Jute,,M,Low,M,VeryLow,VeryLow
+2385,Rubber,,Low,M,Low,,
+2386,Tea,,High,Low,M,,
+2387,Tobacco,,High,Low,M,,
+2388,Apple,,High,Low,M,,
+2389,CustardApple,,M,Low,M,,
+2390,WaterMelon,,High,Low,M,,
+2391,Beetroot,,High,High,High,,
+2392,Carrot,,High,High,M,,
+2393,Rice,Oryza sativum,High,M,M,High,Medium
+2394,Wheat,Triticum,High,Low,M,Medium,Medium
+2395,Maize,Zea mays,High,High,Low,Low,VeryLow
+2396,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2397,Coconut,Cocus nucifera,M,High,M,Low,Low
+2398,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2399,Cotton,Gossypium,High,M,M,Low,Low
+2400,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2401,Onion,Allium sepa,High,M,High,High,High
+2402,Potato,Solanum tuberosum,High,High,High,Low,Low
+2403,Brinjal,Solanum melongena,High,M,M,Low,Low
+2404,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2405,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2406,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2407,Banana,Musa acuminata,High,High,High,M,M
+2408,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2409,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2410,Mango,Mangifera indica,High,High,M,Medium,Medium
+2411,Castor,Ricinus communis,High,M,High,Medium,Low
+2412,Mustard,Brassica   ,High,M,M,Low,Low
+2413,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2414,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2415,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2416,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2417,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2418,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2419,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2420,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2421,Garlic,,High,Low,High,,VeryLow
+2422,Peas,,High,Low,High,VeryLow,VeryLow
+2423,Orange,,High,Low,High,VeryLow,VeryLow
+2424,Celery,,High,Low,High,VeryLow,VeryLow
+2425,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2426,TableTomato,,High,Low,High,VeryLow,VeryLow
+2427,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2428,Sorghum,,M,Low,M,VeryLow,VeryLow
+2429,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2430,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2431,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2432,Barley,,Low,Low,Low,VeryLow,VeryLow
+2433,ChickPea,,M,Low,M,VeryLow,VeryLow
+2434,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2435,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2436,Jute,,M,Low,M,VeryLow,VeryLow
+2437,Rubber,,Low,M,Low,,
+2438,Tea,,High,Low,M,,
+2439,Tobacco,,High,Low,M,,
+2440,Apple,,High,Low,M,,
+2441,CustardApple,,M,Low,M,,
+2442,WaterMelon,,High,Low,M,,
+2443,Beetroot,,High,High,High,,
+2444,Carrot,,High,High,M,,
+2445,Rice,Oryza sativum,High,M,M,High,Medium
+2446,Wheat,Triticum,High,Low,M,Medium,Medium
+2447,Maize,Zea mays,High,High,Low,Low,VeryLow
+2448,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2449,Coconut,Cocus nucifera,M,High,M,Low,Low
+2450,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2451,Cotton,Gossypium,High,M,M,Low,Low
+2452,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2453,Onion,Allium sepa,High,M,High,High,High
+2454,Potato,Solanum tuberosum,High,High,High,Low,Low
+2455,Brinjal,Solanum melongena,High,M,M,Low,Low
+2456,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2457,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2458,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2459,Banana,Musa acuminata,High,High,High,M,M
+2460,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2461,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2462,Mango,Mangifera indica,High,High,M,Medium,Medium
+2463,Castor,Ricinus communis,High,M,High,Medium,Low
+2464,Mustard,Brassica   ,High,M,M,Low,Low
+2465,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2466,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2467,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2468,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2469,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2470,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2471,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2472,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2473,Garlic,,High,Low,High,,VeryLow
+2474,Peas,,High,Low,High,VeryLow,VeryLow
+2475,Orange,,High,Low,High,VeryLow,VeryLow
+2476,Celery,,High,Low,High,VeryLow,VeryLow
+2477,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2478,TableTomato,,High,Low,High,VeryLow,VeryLow
+2479,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2480,Sorghum,,M,Low,M,VeryLow,VeryLow
+2481,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2482,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2483,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2484,Barley,,Low,Low,Low,VeryLow,VeryLow
+2485,ChickPea,,M,Low,M,VeryLow,VeryLow
+2486,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2487,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2488,Jute,,M,Low,M,VeryLow,VeryLow
+2489,Rubber,,Low,M,Low,,
+2490,Tea,,High,Low,M,,
+2491,Tobacco,,High,Low,M,,
+2492,Apple,,High,Low,M,,
+2493,CustardApple,,M,Low,M,,
+2494,WaterMelon,,High,Low,M,,
+2495,Beetroot,,High,High,High,,
+2496,Carrot,,High,High,M,,
+2497,Rice,Oryza sativum,High,M,M,High,Medium
+2498,Wheat,Triticum,High,Low,M,Medium,Medium
+2499,Maize,Zea mays,High,High,Low,Low,VeryLow
+2500,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2501,Coconut,Cocus nucifera,M,High,M,Low,Low
+2502,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2503,Cotton,Gossypium,High,M,M,Low,Low
+2504,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2505,Onion,Allium sepa,High,M,High,High,High
+2506,Potato,Solanum tuberosum,High,High,High,Low,Low
+2507,Brinjal,Solanum melongena,High,M,M,Low,Low
+2508,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2509,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2510,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2511,Banana,Musa acuminata,High,High,High,M,M
+2512,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2513,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2514,Mango,Mangifera indica,High,High,M,Medium,Medium
+2515,Castor,Ricinus communis,High,M,High,Medium,Low
+2516,Mustard,Brassica   ,High,M,M,Low,Low
+2517,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2518,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2519,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2520,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2521,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2522,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2523,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2524,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2525,Garlic,,High,Low,High,,VeryLow
+2526,Peas,,High,Low,High,VeryLow,VeryLow
+2527,Orange,,High,Low,High,VeryLow,VeryLow
+2528,Celery,,High,Low,High,VeryLow,VeryLow
+2529,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2530,TableTomato,,High,Low,High,VeryLow,VeryLow
+2531,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2532,Sorghum,,M,Low,M,VeryLow,VeryLow
+2533,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2534,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2535,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2536,Barley,,Low,Low,Low,VeryLow,VeryLow
+2537,ChickPea,,M,Low,M,VeryLow,VeryLow
+2538,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2539,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2540,Jute,,M,Low,M,VeryLow,VeryLow
+2541,Rubber,,Low,M,Low,,
+2542,Tea,,High,Low,M,,
+2543,Tobacco,,High,Low,M,,
+2544,Apple,,High,Low,M,,
+2545,CustardApple,,M,Low,M,,
+2546,WaterMelon,,High,Low,M,,
+2547,Beetroot,,High,High,High,,
+2548,Carrot,,High,High,M,,
+2549,Rice,Oryza sativum,High,M,M,High,Medium
+2550,Wheat,Triticum,High,Low,M,Medium,Medium
+2551,Maize,Zea mays,High,High,Low,Low,VeryLow
+2552,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2553,Coconut,Cocus nucifera,M,High,M,Low,Low
+2554,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2555,Cotton,Gossypium,High,M,M,Low,Low
+2556,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2557,Onion,Allium sepa,High,M,High,High,High
+2558,Potato,Solanum tuberosum,High,High,High,Low,Low
+2559,Brinjal,Solanum melongena,High,M,M,Low,Low
+2560,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2561,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2562,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2563,Banana,Musa acuminata,High,High,High,M,M
+2564,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2565,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2566,Mango,Mangifera indica,High,High,M,Medium,Medium
+2567,Castor,Ricinus communis,High,M,High,Medium,Low
+2568,Mustard,Brassica   ,High,M,M,Low,Low
+2569,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2570,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2571,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2572,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2573,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2574,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2575,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2576,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2577,Garlic,,High,Low,High,,VeryLow
+2578,Peas,,High,Low,High,VeryLow,VeryLow
+2579,Orange,,High,Low,High,VeryLow,VeryLow
+2580,Celery,,High,Low,High,VeryLow,VeryLow
+2581,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2582,TableTomato,,High,Low,High,VeryLow,VeryLow
+2583,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2584,Sorghum,,M,Low,M,VeryLow,VeryLow
+2585,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2586,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2587,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2588,Barley,,Low,Low,Low,VeryLow,VeryLow
+2589,ChickPea,,M,Low,M,VeryLow,VeryLow
+2590,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2591,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2592,Jute,,M,Low,M,VeryLow,VeryLow
+2593,Rubber,,Low,M,Low,,
+2594,Tea,,High,Low,M,,
+2595,Tobacco,,High,Low,M,,
+2596,Apple,,High,Low,M,,
+2597,CustardApple,,M,Low,M,,
+2598,WaterMelon,,High,Low,M,,
+2599,Beetroot,,High,High,High,,
+2600,Carrot,,High,High,M,,
+2601,Rice,Oryza sativum,High,M,M,High,Medium
+2602,Wheat,Triticum,High,Low,M,Medium,Medium
+2603,Maize,Zea mays,High,High,Low,Low,VeryLow
+2604,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2605,Coconut,Cocus nucifera,M,High,M,Low,Low
+2606,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2607,Cotton,Gossypium,High,M,M,Low,Low
+2608,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2609,Onion,Allium sepa,High,M,High,High,High
+2610,Potato,Solanum tuberosum,High,High,High,Low,Low
+2611,Brinjal,Solanum melongena,High,M,M,Low,Low
+2612,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2613,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2614,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2615,Banana,Musa acuminata,High,High,High,M,M
+2616,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2617,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2618,Mango,Mangifera indica,High,High,M,Medium,Medium
+2619,Castor,Ricinus communis,High,M,High,Medium,Low
+2620,Mustard,Brassica   ,High,M,M,Low,Low
+2621,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2622,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2623,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2624,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2625,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2626,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2627,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2628,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2629,Garlic,,High,Low,High,,VeryLow
+2630,Peas,,High,Low,High,VeryLow,VeryLow
+2631,Orange,,High,Low,High,VeryLow,VeryLow
+2632,Celery,,High,Low,High,VeryLow,VeryLow
+2633,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2634,TableTomato,,High,Low,High,VeryLow,VeryLow
+2635,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2636,Sorghum,,M,Low,M,VeryLow,VeryLow
+2637,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2638,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2639,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2640,Barley,,Low,Low,Low,VeryLow,VeryLow
+2641,ChickPea,,M,Low,M,VeryLow,VeryLow
+2642,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2643,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2644,Jute,,M,Low,M,VeryLow,VeryLow
+2645,Rubber,,Low,M,Low,,
+2646,Tea,,High,Low,M,,
+2647,Tobacco,,High,Low,M,,
+2648,Apple,,High,Low,M,,
+2649,CustardApple,,M,Low,M,,
+2650,WaterMelon,,High,Low,M,,
+2651,Beetroot,,High,High,High,,
+2652,Carrot,,High,High,M,,
+2653,Rice,Oryza sativum,High,M,M,High,Medium
+2654,Wheat,Triticum,High,Low,M,Medium,Medium
+2655,Maize,Zea mays,High,High,Low,Low,VeryLow
+2656,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2657,Coconut,Cocus nucifera,M,High,M,Low,Low
+2658,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2659,Cotton,Gossypium,High,M,M,Low,Low
+2660,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2661,Onion,Allium sepa,High,M,High,High,High
+2662,Potato,Solanum tuberosum,High,High,High,Low,Low
+2663,Brinjal,Solanum melongena,High,M,M,Low,Low
+2664,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2665,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2666,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2667,Banana,Musa acuminata,High,High,High,M,M
+2668,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2669,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2670,Mango,Mangifera indica,High,High,M,Medium,Medium
+2671,Castor,Ricinus communis,High,M,High,Medium,Low
+2672,Mustard,Brassica   ,High,M,M,Low,Low
+2673,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2674,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2675,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2676,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2677,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2678,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2679,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2680,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2681,Garlic,,High,Low,High,,VeryLow
+2682,Peas,,High,Low,High,VeryLow,VeryLow
+2683,Orange,,High,Low,High,VeryLow,VeryLow
+2684,Celery,,High,Low,High,VeryLow,VeryLow
+2685,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2686,TableTomato,,High,Low,High,VeryLow,VeryLow
+2687,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2688,Sorghum,,M,Low,M,VeryLow,VeryLow
+2689,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2690,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2691,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2692,Barley,,Low,Low,Low,VeryLow,VeryLow
+2693,ChickPea,,M,Low,M,VeryLow,VeryLow
+2694,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2695,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2696,Jute,,M,Low,M,VeryLow,VeryLow
+2697,Rubber,,Low,M,Low,,
+2698,Tea,,High,Low,M,,
+2699,Tobacco,,High,Low,M,,
+2700,Apple,,High,Low,M,,
+2701,CustardApple,,M,Low,M,,
+2702,WaterMelon,,High,Low,M,,
+2703,Beetroot,,High,High,High,,
+2704,Carrot,,High,High,M,,
+2705,Rice,Oryza sativum,High,M,M,High,Medium
+2706,Wheat,Triticum,High,Low,M,Medium,Medium
+2707,Maize,Zea mays,High,High,Low,Low,VeryLow
+2708,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2709,Coconut,Cocus nucifera,M,High,M,Low,Low
+2710,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2711,Cotton,Gossypium,High,M,M,Low,Low
+2712,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2713,Onion,Allium sepa,High,M,High,High,High
+2714,Potato,Solanum tuberosum,High,High,High,Low,Low
+2715,Brinjal,Solanum melongena,High,M,M,Low,Low
+2716,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2717,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2718,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2719,Banana,Musa acuminata,High,High,High,M,M
+2720,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2721,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2722,Mango,Mangifera indica,High,High,M,Medium,Medium
+2723,Castor,Ricinus communis,High,M,High,Medium,Low
+2724,Mustard,Brassica   ,High,M,M,Low,Low
+2725,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2726,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2727,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2728,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2729,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2730,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2731,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2732,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2733,Garlic,,High,Low,High,,VeryLow
+2734,Peas,,High,Low,High,VeryLow,VeryLow
+2735,Orange,,High,Low,High,VeryLow,VeryLow
+2736,Celery,,High,Low,High,VeryLow,VeryLow
+2737,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2738,TableTomato,,High,Low,High,VeryLow,VeryLow
+2739,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2740,Sorghum,,M,Low,M,VeryLow,VeryLow
+2741,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2742,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2743,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2744,Barley,,Low,Low,Low,VeryLow,VeryLow
+2745,ChickPea,,M,Low,M,VeryLow,VeryLow
+2746,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2747,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2748,Jute,,M,Low,M,VeryLow,VeryLow
+2749,Rubber,,Low,M,Low,,
+2750,Tea,,High,Low,M,,
+2751,Tobacco,,High,Low,M,,
+2752,Apple,,High,Low,M,,
+2753,CustardApple,,M,Low,M,,
+2754,WaterMelon,,High,Low,M,,
+2755,Beetroot,,High,High,High,,
+2756,Carrot,,High,High,M,,
+2757,Rice,Oryza sativum,High,M,M,High,Medium
+2758,Wheat,Triticum,High,Low,M,Medium,Medium
+2759,Maize,Zea mays,High,High,Low,Low,VeryLow
+2760,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2761,Coconut,Cocus nucifera,M,High,M,Low,Low
+2762,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2763,Cotton,Gossypium,High,M,M,Low,Low
+2764,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2765,Onion,Allium sepa,High,M,High,High,High
+2766,Potato,Solanum tuberosum,High,High,High,Low,Low
+2767,Brinjal,Solanum melongena,High,M,M,Low,Low
+2768,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2769,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2770,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2771,Banana,Musa acuminata,High,High,High,M,M
+2772,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2773,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2774,Mango,Mangifera indica,High,High,M,Medium,Medium
+2775,Castor,Ricinus communis,High,M,High,Medium,Low
+2776,Mustard,Brassica   ,High,M,M,Low,Low
+2777,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2778,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2779,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2780,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2781,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2782,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2783,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2784,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2785,Garlic,,High,Low,High,,VeryLow
+2786,Peas,,High,Low,High,VeryLow,VeryLow
+2787,Orange,,High,Low,High,VeryLow,VeryLow
+2788,Celery,,High,Low,High,VeryLow,VeryLow
+2789,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2790,TableTomato,,High,Low,High,VeryLow,VeryLow
+2791,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2792,Sorghum,,M,Low,M,VeryLow,VeryLow
+2793,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2794,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2795,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2796,Barley,,Low,Low,Low,VeryLow,VeryLow
+2797,ChickPea,,M,Low,M,VeryLow,VeryLow
+2798,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2799,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2800,Jute,,M,Low,M,VeryLow,VeryLow
+2801,Rubber,,Low,M,Low,,
+2802,Tea,,High,Low,M,,
+2803,Tobacco,,High,Low,M,,
+2804,Apple,,High,Low,M,,
+2805,CustardApple,,M,Low,M,,
+2806,WaterMelon,,High,Low,M,,
+2807,Beetroot,,High,High,High,,
+2808,Carrot,,High,High,M,,
+2809,Rice,Oryza sativum,High,M,M,High,Medium
+2810,Wheat,Triticum,High,Low,M,Medium,Medium
+2811,Maize,Zea mays,High,High,Low,Low,VeryLow
+2812,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2813,Coconut,Cocus nucifera,M,High,M,Low,Low
+2814,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2815,Cotton,Gossypium,High,M,M,Low,Low
+2816,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2817,Onion,Allium sepa,High,M,High,High,High
+2818,Potato,Solanum tuberosum,High,High,High,Low,Low
+2819,Brinjal,Solanum melongena,High,M,M,Low,Low
+2820,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2821,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2822,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2823,Banana,Musa acuminata,High,High,High,M,M
+2824,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2825,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2826,Mango,Mangifera indica,High,High,M,Medium,Medium
+2827,Castor,Ricinus communis,High,M,High,Medium,Low
+2828,Mustard,Brassica   ,High,M,M,Low,Low
+2829,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2830,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2831,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2832,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2833,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2834,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2835,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2836,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2837,Garlic,,High,Low,High,,VeryLow
+2838,Peas,,High,Low,High,VeryLow,VeryLow
+2839,Orange,,High,Low,High,VeryLow,VeryLow
+2840,Celery,,High,Low,High,VeryLow,VeryLow
+2841,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2842,TableTomato,,High,Low,High,VeryLow,VeryLow
+2843,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2844,Sorghum,,M,Low,M,VeryLow,VeryLow
+2845,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2846,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2847,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2848,Barley,,Low,Low,Low,VeryLow,VeryLow
+2849,ChickPea,,M,Low,M,VeryLow,VeryLow
+2850,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2851,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2852,Jute,,M,Low,M,VeryLow,VeryLow
+2853,Rubber,,Low,M,Low,,
+2854,Tea,,High,Low,M,,
+2855,Tobacco,,High,Low,M,,
+2856,Apple,,High,Low,M,,
+2857,CustardApple,,M,Low,M,,
+2858,WaterMelon,,High,Low,M,,
+2859,Beetroot,,High,High,High,,
+2860,Carrot,,High,High,M,,
+2861,Rice,Oryza sativum,High,M,M,High,Medium
+2862,Wheat,Triticum,High,Low,M,Medium,Medium
+2863,Maize,Zea mays,High,High,Low,Low,VeryLow
+2864,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2865,Coconut,Cocus nucifera,M,High,M,Low,Low
+2866,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2867,Cotton,Gossypium,High,M,M,Low,Low
+2868,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2869,Onion,Allium sepa,High,M,High,High,High
+2870,Potato,Solanum tuberosum,High,High,High,Low,Low
+2871,Brinjal,Solanum melongena,High,M,M,Low,Low
+2872,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2873,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2874,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2875,Banana,Musa acuminata,High,High,High,M,M
+2876,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2877,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2878,Mango,Mangifera indica,High,High,M,Medium,Medium
+2879,Castor,Ricinus communis,High,M,High,Medium,Low
+2880,Mustard,Brassica   ,High,M,M,Low,Low
+2881,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2882,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2883,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2884,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2885,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2886,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2887,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2888,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2889,Garlic,,High,Low,High,,VeryLow
+2890,Peas,,High,Low,High,VeryLow,VeryLow
+2891,Orange,,High,Low,High,VeryLow,VeryLow
+2892,Celery,,High,Low,High,VeryLow,VeryLow
+2893,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2894,TableTomato,,High,Low,High,VeryLow,VeryLow
+2895,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2896,Sorghum,,M,Low,M,VeryLow,VeryLow
+2897,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2898,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2899,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2900,Barley,,Low,Low,Low,VeryLow,VeryLow
+2901,ChickPea,,M,Low,M,VeryLow,VeryLow
+2902,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2903,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2904,Jute,,M,Low,M,VeryLow,VeryLow
+2905,Rubber,,Low,M,Low,,
+2906,Tea,,High,Low,M,,
+2907,Tobacco,,High,Low,M,,
+2908,Apple,,High,Low,M,,
+2909,CustardApple,,M,Low,M,,
+2910,WaterMelon,,High,Low,M,,
+2911,Beetroot,,High,High,High,,
+2912,Carrot,,High,High,M,,
+2913,Rice,Oryza sativum,High,M,M,High,Medium
+2914,Wheat,Triticum,High,Low,M,Medium,Medium
+2915,Maize,Zea mays,High,High,Low,Low,VeryLow
+2916,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2917,Coconut,Cocus nucifera,M,High,M,Low,Low
+2918,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2919,Cotton,Gossypium,High,M,M,Low,Low
+2920,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2921,Onion,Allium sepa,High,M,High,High,High
+2922,Potato,Solanum tuberosum,High,High,High,Low,Low
+2923,Brinjal,Solanum melongena,High,M,M,Low,Low
+2924,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2925,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2926,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2927,Banana,Musa acuminata,High,High,High,M,M
+2928,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2929,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2930,Mango,Mangifera indica,High,High,M,Medium,Medium
+2931,Castor,Ricinus communis,High,M,High,Medium,Low
+2932,Mustard,Brassica   ,High,M,M,Low,Low
+2933,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2934,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2935,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2936,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2937,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2938,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2939,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2940,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2941,Garlic,,High,Low,High,,VeryLow
+2942,Peas,,High,Low,High,VeryLow,VeryLow
+2943,Orange,,High,Low,High,VeryLow,VeryLow
+2944,Celery,,High,Low,High,VeryLow,VeryLow
+2945,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2946,TableTomato,,High,Low,High,VeryLow,VeryLow
+2947,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+2948,Sorghum,,M,Low,M,VeryLow,VeryLow
+2949,PearlMillet,,M,Low,M,VeryLow,VeryLow
+2950,Raagi,,Low,Low,Low,VeryLow,VeryLow
+2951,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+2952,Barley,,Low,Low,Low,VeryLow,VeryLow
+2953,ChickPea,,M,Low,M,VeryLow,VeryLow
+2954,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+2955,SoyaBean,,High,Low,M,VeryLow,VeryLow
+2956,Jute,,M,Low,M,VeryLow,VeryLow
+2957,Rubber,,Low,M,Low,,
+2958,Tea,,High,Low,M,,
+2959,Tobacco,,High,Low,M,,
+2960,Apple,,High,Low,M,,
+2961,CustardApple,,M,Low,M,,
+2962,WaterMelon,,High,Low,M,,
+2963,Beetroot,,High,High,High,,
+2964,Carrot,,High,High,M,,
+2965,Rice,Oryza sativum,High,M,M,High,Medium
+2966,Wheat,Triticum,High,Low,M,Medium,Medium
+2967,Maize,Zea mays,High,High,Low,Low,VeryLow
+2968,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+2969,Coconut,Cocus nucifera,M,High,M,Low,Low
+2970,Chilli,Capsicum frutescens,High,M,M,Low,Low
+2971,Cotton,Gossypium,High,M,M,Low,Low
+2972,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+2973,Onion,Allium sepa,High,M,High,High,High
+2974,Potato,Solanum tuberosum,High,High,High,Low,Low
+2975,Brinjal,Solanum melongena,High,M,M,Low,Low
+2976,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+2977,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+2978,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+2979,Banana,Musa acuminata,High,High,High,M,M
+2980,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+2981,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+2982,Mango,Mangifera indica,High,High,M,Medium,Medium
+2983,Castor,Ricinus communis,High,M,High,Medium,Low
+2984,Mustard,Brassica   ,High,M,M,Low,Low
+2985,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+2986,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+2987,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+2988,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+2989,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+2990,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+2991,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+2992,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+2993,Garlic,,High,Low,High,,VeryLow
+2994,Peas,,High,Low,High,VeryLow,VeryLow
+2995,Orange,,High,Low,High,VeryLow,VeryLow
+2996,Celery,,High,Low,High,VeryLow,VeryLow
+2997,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+2998,TableTomato,,High,Low,High,VeryLow,VeryLow
+2999,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3000,Sorghum,,M,Low,M,VeryLow,VeryLow
+3001,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3002,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3003,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3004,Barley,,Low,Low,Low,VeryLow,VeryLow
+3005,ChickPea,,M,Low,M,VeryLow,VeryLow
+3006,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3007,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3008,Jute,,M,Low,M,VeryLow,VeryLow
+3009,Rubber,,Low,M,Low,,
+3010,Tea,,High,Low,M,,
+3011,Tobacco,,High,Low,M,,
+3012,Apple,,High,Low,M,,
+3013,CustardApple,,M,Low,M,,
+3014,WaterMelon,,High,Low,M,,
+3015,Beetroot,,High,High,High,,
+3016,Carrot,,High,High,M,,
+3017,Rice,Oryza sativum,High,M,M,High,Medium
+3018,Wheat,Triticum,High,Low,M,Medium,Medium
+3019,Maize,Zea mays,High,High,Low,Low,VeryLow
+3020,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+3021,Coconut,Cocus nucifera,M,High,M,Low,Low
+3022,Chilli,Capsicum frutescens,High,M,M,Low,Low
+3023,Cotton,Gossypium,High,M,M,Low,Low
+3024,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+3025,Onion,Allium sepa,High,M,High,High,High
+3026,Potato,Solanum tuberosum,High,High,High,Low,Low
+3027,Brinjal,Solanum melongena,High,M,M,Low,Low
+3028,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+3029,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+3030,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+3031,Banana,Musa acuminata,High,High,High,M,M
+3032,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+3033,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+3034,Mango,Mangifera indica,High,High,M,Medium,Medium
+3035,Castor,Ricinus communis,High,M,High,Medium,Low
+3036,Mustard,Brassica   ,High,M,M,Low,Low
+3037,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+3038,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+3039,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+3040,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+3041,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+3042,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+3043,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+3044,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+3045,Garlic,,High,Low,High,,VeryLow
+3046,Peas,,High,Low,High,VeryLow,VeryLow
+3047,Orange,,High,Low,High,VeryLow,VeryLow
+3048,Celery,,High,Low,High,VeryLow,VeryLow
+3049,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+3050,TableTomato,,High,Low,High,VeryLow,VeryLow
+3051,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3052,Sorghum,,M,Low,M,VeryLow,VeryLow
+3053,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3054,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3055,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3056,Barley,,Low,Low,Low,VeryLow,VeryLow
+3057,ChickPea,,M,Low,M,VeryLow,VeryLow
+3058,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3059,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3060,Jute,,M,Low,M,VeryLow,VeryLow
+3061,Rubber,,Low,M,Low,,
+3062,Tea,,High,Low,M,,
+3063,Tobacco,,High,Low,M,,
+3064,Apple,,High,Low,M,,
+3065,CustardApple,,M,Low,M,,
+3066,WaterMelon,,High,Low,M,,
+3067,Beetroot,,High,High,High,,
+3068,Carrot,,High,High,M,,
+3069,Rice,Oryza sativum,High,M,M,High,Medium
+3070,Wheat,Triticum,High,Low,M,Medium,Medium
+3071,Maize,Zea mays,High,High,Low,Low,VeryLow
+3072,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+3073,Coconut,Cocus nucifera,M,High,M,Low,Low
+3074,Chilli,Capsicum frutescens,High,M,M,Low,Low
+3075,Cotton,Gossypium,High,M,M,Low,Low
+3076,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+3077,Onion,Allium sepa,High,M,High,High,High
+3078,Potato,Solanum tuberosum,High,High,High,Low,Low
+3079,Brinjal,Solanum melongena,High,M,M,Low,Low
+3080,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+3081,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+3082,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+3083,Banana,Musa acuminata,High,High,High,M,M
+3084,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+3085,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+3086,Mango,Mangifera indica,High,High,M,Medium,Medium
+3087,Castor,Ricinus communis,High,M,High,Medium,Low
+3088,Mustard,Brassica   ,High,M,M,Low,Low
+3089,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+3090,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+3091,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+3092,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+3093,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+3094,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+3095,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+3096,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+3097,Garlic,,High,Low,High,,VeryLow
+3098,Peas,,High,Low,High,VeryLow,VeryLow
+3099,Orange,,High,Low,High,VeryLow,VeryLow
+3100,Celery,,High,Low,High,VeryLow,VeryLow
+3101,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+3102,TableTomato,,High,Low,High,VeryLow,VeryLow
+3103,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3104,Sorghum,,M,Low,M,VeryLow,VeryLow
+3105,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3106,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3107,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3108,Barley,,Low,Low,Low,VeryLow,VeryLow
+3109,ChickPea,,M,Low,M,VeryLow,VeryLow
+3110,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3111,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3112,Jute,,M,Low,M,VeryLow,VeryLow
+3113,Rubber,,Low,M,Low,,
+3114,Tea,,High,Low,M,,
+3115,Tobacco,,High,Low,M,,
+3116,Apple,,High,Low,M,,
+3117,CustardApple,,M,Low,M,,
+3118,WaterMelon,,High,Low,M,,
+3119,Beetroot,,High,High,High,,
+3120,Carrot,,High,High,M,,
+3121,Rice,Oryza sativum,High,M,M,High,Medium
+3122,Wheat,Triticum,High,Low,M,Medium,Medium
+3123,Maize,Zea mays,High,High,Low,Low,VeryLow
+3124,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+3125,Coconut,Cocus nucifera,M,High,M,Low,Low
+3126,Chilli,Capsicum frutescens,High,M,M,Low,Low
+3127,Cotton,Gossypium,High,M,M,Low,Low
+3128,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+3129,Onion,Allium sepa,High,M,High,High,High
+3130,Potato,Solanum tuberosum,High,High,High,Low,Low
+3131,Brinjal,Solanum melongena,High,M,M,Low,Low
+3132,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+3133,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+3134,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+3135,Banana,Musa acuminata,High,High,High,M,M
+3136,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+3137,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+3138,Mango,Mangifera indica,High,High,M,Medium,Medium
+3139,Castor,Ricinus communis,High,M,High,Medium,Low
+3140,Mustard,Brassica   ,High,M,M,Low,Low
+3141,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+3142,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+3143,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+3144,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+3145,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+3146,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+3147,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+3148,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+3149,Garlic,,High,Low,High,,VeryLow
+3150,Peas,,High,Low,High,VeryLow,VeryLow
+3151,Orange,,High,Low,High,VeryLow,VeryLow
+3152,Celery,,High,Low,High,VeryLow,VeryLow
+3153,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+3154,TableTomato,,High,Low,High,VeryLow,VeryLow
+3155,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3156,Sorghum,,M,Low,M,VeryLow,VeryLow
+3157,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3158,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3159,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3160,Barley,,Low,Low,Low,VeryLow,VeryLow
+3161,ChickPea,,M,Low,M,VeryLow,VeryLow
+3162,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3163,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3164,Jute,,M,Low,M,VeryLow,VeryLow
+3165,Rubber,,Low,M,Low,,
+3166,Tea,,High,Low,M,,
+3167,Tobacco,,High,Low,M,,
+3168,Apple,,High,Low,M,,
+3169,CustardApple,,M,Low,M,,
+3170,WaterMelon,,High,Low,M,,
+3171,Beetroot,,High,High,High,,
+3172,Carrot,,High,High,M,,
+3173,Rice,Oryza sativum,High,M,M,High,Medium
+3174,Wheat,Triticum,High,Low,M,Medium,Medium
+3175,Maize,Zea mays,High,High,Low,Low,VeryLow
+3176,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+3177,Coconut,Cocus nucifera,M,High,M,Low,Low
+3178,Chilli,Capsicum frutescens,High,M,M,Low,Low
+3179,Cotton,Gossypium,High,M,M,Low,Low
+3180,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+3181,Onion,Allium sepa,High,M,High,High,High
+3182,Potato,Solanum tuberosum,High,High,High,Low,Low
+3183,Brinjal,Solanum melongena,High,M,M,Low,Low
+3184,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+3185,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+3186,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+3187,Banana,Musa acuminata,High,High,High,M,M
+3188,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+3189,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+3190,Mango,Mangifera indica,High,High,M,Medium,Medium
+3191,Castor,Ricinus communis,High,M,High,Medium,Low
+3192,Mustard,Brassica   ,High,M,M,Low,Low
+3193,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+3194,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+3195,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+3196,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+3197,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+3198,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+3199,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+3200,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+3201,Garlic,,High,Low,High,,VeryLow
+3202,Peas,,High,Low,High,VeryLow,VeryLow
+3203,Orange,,High,Low,High,VeryLow,VeryLow
+3204,Celery,,High,Low,High,VeryLow,VeryLow
+3205,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+3206,TableTomato,,High,Low,High,VeryLow,VeryLow
+3207,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3208,Sorghum,,M,Low,M,VeryLow,VeryLow
+3209,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3210,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3211,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3212,Barley,,Low,Low,Low,VeryLow,VeryLow
+3213,ChickPea,,M,Low,M,VeryLow,VeryLow
+3214,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3215,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3216,Jute,,M,Low,M,VeryLow,VeryLow
+3217,Rubber,,Low,M,Low,,
+3218,Tea,,High,Low,M,,
+3219,Tobacco,,High,Low,M,,
+3220,Apple,,High,Low,M,,
+3221,CustardApple,,M,Low,M,,
+3222,WaterMelon,,High,Low,M,,
+3223,Beetroot,,High,High,High,,
+3224,Carrot,,High,High,M,,
+3225,Rice,Oryza sativum,High,M,M,High,Medium
+3226,Wheat,Triticum,High,Low,M,Medium,Medium
+3227,Maize,Zea mays,High,High,Low,Low,VeryLow
+3228,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+3229,Coconut,Cocus nucifera,M,High,M,Low,Low
+3230,Chilli,Capsicum frutescens,High,M,M,Low,Low
+3231,Cotton,Gossypium,High,M,M,Low,Low
+3232,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+3233,Onion,Allium sepa,High,M,High,High,High
+3234,Potato,Solanum tuberosum,High,High,High,Low,Low
+3235,Brinjal,Solanum melongena,High,M,M,Low,Low
+3236,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+3237,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+3238,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+3239,Banana,Musa acuminata,High,High,High,M,M
+3240,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+3241,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+3242,Mango,Mangifera indica,High,High,M,Medium,Medium
+3243,Castor,Ricinus communis,High,M,High,Medium,Low
+3244,Mustard,Brassica   ,High,M,M,Low,Low
+3245,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+3246,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+3247,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+3248,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+3249,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+3250,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+3251,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+3252,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+3253,Garlic,,High,Low,High,,VeryLow
+3254,Peas,,High,Low,High,VeryLow,VeryLow
+3255,Orange,,High,Low,High,VeryLow,VeryLow
+3256,Celery,,High,Low,High,VeryLow,VeryLow
+3257,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+3258,TableTomato,,High,Low,High,VeryLow,VeryLow
+3259,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3260,Sorghum,,M,Low,M,VeryLow,VeryLow
+3261,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3262,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3263,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3264,Barley,,Low,Low,Low,VeryLow,VeryLow
+3265,ChickPea,,M,Low,M,VeryLow,VeryLow
+3266,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3267,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3268,Jute,,M,Low,M,VeryLow,VeryLow
+3269,Rubber,,Low,M,Low,,
+3270,Tea,,High,Low,M,,
+3271,Tobacco,,High,Low,M,,
+3272,Apple,,High,Low,M,,
+3273,CustardApple,,M,Low,M,,
+3274,WaterMelon,,High,Low,M,,
+3275,Beetroot,,High,High,High,,
+3276,Carrot,,High,High,M,,
+3277,Rice,Oryza sativum,High,M,M,High,Medium
+3278,Wheat,Triticum,High,Low,M,Medium,Medium
+3279,Maize,Zea mays,High,High,Low,Low,VeryLow
+3280,GroundNut,Arachis hypogaea,Low,M,High,Medium,Low
+3281,Coconut,Cocus nucifera,M,High,M,Low,Low
+3282,Chilli,Capsicum frutescens,High,M,M,Low,Low
+3283,Cotton,Gossypium,High,M,M,Low,Low
+3284,Redgram,Cajanus cajan,Low,M,Low,Low,Low
+3285,Onion,Allium sepa,High,M,High,High,High
+3286,Potato,Solanum tuberosum,High,High,High,Low,Low
+3287,Brinjal,Solanum melongena,High,M,M,Low,Low
+3288,Drumstick,Moringa oleifera,M,Low,High,Low,Low
+3289,Cabbage,Brassica oleracear var.capitata,High,High,High,High,High
+3290,Turmeric,Curcuma longa,M,M,High,VeryLow,VeryLow
+3291,Banana,Musa acuminata,High,High,High,M,M
+3292,Tomato,Solanum lycopersicum,High,M,M,Low,Low
+3293,Sugarcane,Saccharum officinarium,High,High,High,Low,Medium
+3294,Mango,Mangifera indica,High,High,M,Medium,Medium
+3295,Castor,Ricinus communis,High,M,High,Medium,Low
+3296,Mustard,Brassica   ,High,M,M,Low,Low
+3297,Cucumber,Cucumis sativus,Low,High,High,Low,Low
+3298,Ladies Finger,Abelmoschus esculentus,High,M,M,Low,Low
+3299,Gingelly,Sesamum indicum,M,Low,Low,Medium,High
+3300,Pumpkin,Cucurbita,High,M,High,Medium,Medium
+3301,Bottle Guard,Lagenaria siceraria,Low,Low,M,VeryLow,VeryLow
+3302,Bitter Guard,Momordica charantia,High,Low,M,Low,Medium
+3303,Ash Guard,Benincasa hispida,High,M,M,VeryLow,VeryLow
+3304,Sun Flower,Helianthus,High,M,M,Low,VeryLow
+3305,Garlic,,High,Low,High,,VeryLow
+3306,Peas,,High,Low,High,VeryLow,VeryLow
+3307,Orange,,High,Low,High,VeryLow,VeryLow
+3308,Celery,,High,Low,High,VeryLow,VeryLow
+3309,GreenHouseTomato,,High,M,High,VeryLow,VeryLow
+3310,TableTomato,,High,Low,High,VeryLow,VeryLow
+3311,HydrophonicTomato,,High,Low,High,VeryLow,VeryLow
+3312,Sorghum,,M,Low,M,VeryLow,VeryLow
+3313,PearlMillet,,M,Low,M,VeryLow,VeryLow
+3314,Raagi,,Low,Low,Low,VeryLow,VeryLow
+3315,SmallMillets,,Low,Low,Low,VeryLow,VeryLow
+3316,Barley,,Low,Low,Low,VeryLow,VeryLow
+3317,ChickPea,,M,Low,M,VeryLow,VeryLow
+3318,PigeonPea,,M,Low,Low,VeryLow,VeryLow
+3319,SoyaBean,,High,Low,M,VeryLow,VeryLow
+3320,Jute,,M,Low,M,VeryLow,VeryLow
+3321,Rubber,,Low,M,Low,,
+3322,Tea,,High,Low,M,,
+3323,Tobacco,,High,Low,M,,
+3324,Apple,,High,Low,M,,
+3325,CustardApple,,M,Low,M,,
+3326,WaterMelon,,High,Low,M,,
+3327,Beetroot,,High,High,High,,
+3328,Carrot,,High,High,M,,
